@@ -1,0 +1,1000 @@
+,Genetics,Hormonal Changes,Medical Conditions,Medications & Treatments,Nutritional Deficiencies,Stress,Age,Poor Hair Care Habits,Environmental Factors,Smoking,Weight Loss,Hair Loss
+0,True,False,No Data,No Data,Magnesium deficiency,1,19,True,True,False,False,False
+1,False,False,Eczema,Antibiotics,Magnesium deficiency,2,43,True,True,False,False,False
+2,False,False,Dermatosis,Antifungal Cream,Protein deficiency,1,26,True,True,False,True,False
+3,True,True,Ringworm,Antibiotics,Biotin Deficiency ,1,46,True,True,False,False,False
+4,False,False,Psoriasis,Accutane,Iron deficiency,1,30,False,True,True,False,True
+5,True,False,Psoriasis,Antibiotics,Magnesium deficiency,0,37,False,True,False,True,True
+6,True,True,No Data,No Data,Selenium deficiency,2,40,True,False,False,False,True
+7,True,False,Dermatosis,Chemotherapy,Omega-3 fatty acids,2,35,True,False,True,False,False
+8,True,False,Eczema,Steroids,Selenium deficiency,1,19,False,False,True,True,True
+9,False,True,Ringworm,Rogaine,Magnesium deficiency,1,49,True,True,True,False,False
+10,True,True,Eczema,Blood Pressure Medication,Biotin Deficiency ,2,26,True,True,True,False,False
+11,False,True,Alopecia Areata ,Accutane,Zinc Deficiency,2,48,False,False,False,False,True
+12,True,True,Scalp Infection,Immunomodulators,Biotin Deficiency ,1,20,False,True,True,False,True
+13,False,False,Psoriasis,Antibiotics,Vitamin A Deficiency,2,30,True,True,True,True,False
+14,True,False,Eczema,Antibiotics,Biotin Deficiency ,2,34,True,True,False,True,False
+15,True,True,Scalp Infection,Rogaine,Vitamin D Deficiency,1,29,True,False,False,True,False
+16,True,False,Seborrheic Dermatitis,Antidepressants ,Vitamin D Deficiency,2,46,True,True,False,True,False
+17,False,True,Dermatosis,Antibiotics,Zinc Deficiency,0,19,True,False,False,True,True
+18,True,True,Dermatosis,Accutane,Biotin Deficiency ,0,26,False,False,True,False,False
+19,True,True,Seborrheic Dermatitis,Chemotherapy,Vitamin A Deficiency,2,46,True,True,False,True,True
+20,True,True,Seborrheic Dermatitis,Accutane,Protein deficiency,2,46,False,True,False,True,True
+21,False,False,No Data,Chemotherapy,Zinc Deficiency,2,20,False,True,True,True,True
+22,True,True,Psoriasis,Antibiotics,Vitamin D Deficiency,0,29,False,False,True,True,False
+23,False,True,Scalp Infection,Antidepressants ,Vitamin D Deficiency,2,37,False,False,True,False,True
+24,False,True,Dermatitis,Antibiotics,Protein deficiency,2,33,True,True,False,False,False
+25,True,True,Dermatosis,Heart Medication ,Vitamin A Deficiency,1,34,False,False,False,False,False
+26,False,True,Dermatosis,Immunomodulators,Selenium deficiency,2,28,False,False,False,False,False
+27,False,True,Seborrheic Dermatitis,Antifungal Cream,Zinc Deficiency,0,41,False,False,False,False,False
+28,False,True,Thyroid Problems,Chemotherapy,Omega-3 fatty acids,0,35,True,True,True,False,False
+29,False,True,Dermatitis,Chemotherapy,No Data,0,21,True,True,True,False,False
+30,False,False,Dermatosis,Chemotherapy,No Data,2,22,True,True,False,False,False
+31,False,True,Dermatitis,Antibiotics,Iron deficiency,1,45,False,False,False,True,True
+32,True,False,Dermatitis,Steroids,Protein deficiency,1,30,True,True,False,False,False
+33,True,False,Ringworm,Steroids,Selenium deficiency,2,24,True,True,False,True,True
+34,False,True,Scalp Infection,Antidepressants ,Vitamin D Deficiency,1,31,True,True,True,True,True
+35,True,True,Dermatitis,Chemotherapy,Zinc Deficiency,0,30,True,True,True,True,False
+36,False,True,Alopecia Areata ,Antibiotics,Biotin Deficiency ,0,39,False,False,False,True,True
+37,False,False,Eczema,Heart Medication ,No Data,0,21,True,False,False,True,True
+38,False,True,Scalp Infection,Chemotherapy,Zinc Deficiency,0,24,True,True,True,False,False
+39,True,True,Seborrheic Dermatitis,Steroids,Omega-3 fatty acids,1,38,False,False,False,False,False
+40,False,False,No Data,Chemotherapy,Vitamin E deficiency,2,19,True,True,True,False,False
+41,True,True,Dermatosis,Immunomodulators,Magnesium deficiency,2,39,False,False,True,True,True
+42,True,False,Alopecia Areata ,Accutane,Selenium deficiency,2,30,False,False,False,False,True
+43,False,False,Dermatosis,Blood Pressure Medication,Magnesium deficiency,0,24,False,True,False,True,True
+44,True,True,Thyroid Problems,Rogaine,Vitamin E deficiency,0,37,False,False,False,False,True
+45,False,False,Androgenetic Alopecia,Accutane,Iron deficiency,1,36,False,False,True,True,True
+46,False,True,Androgenetic Alopecia,Steroids,Vitamin A Deficiency,1,48,True,True,False,False,False
+47,False,False,No Data,Steroids,Zinc Deficiency,2,18,False,True,True,False,True
+48,True,False,No Data,Blood Pressure Medication,Iron deficiency,2,18,False,True,False,True,True
+49,False,False,Scalp Infection,Immunomodulators,Vitamin A Deficiency,1,38,True,True,False,True,False
+50,True,True,Androgenetic Alopecia,Rogaine,Vitamin D Deficiency,1,46,True,True,True,True,True
+51,True,False,Psoriasis,Blood Pressure Medication,Vitamin A Deficiency,0,39,False,True,True,False,True
+52,False,True,Seborrheic Dermatitis,Antibiotics,Protein deficiency,1,31,True,True,True,False,True
+53,True,True,Androgenetic Alopecia,Heart Medication ,Omega-3 fatty acids,0,28,True,True,False,False,False
+54,False,True,Alopecia Areata ,Blood Pressure Medication,Iron deficiency,2,28,True,False,True,False,True
+55,True,False,Thyroid Problems,Steroids,Biotin Deficiency ,0,44,True,True,False,True,True
+56,False,False,Ringworm,Blood Pressure Medication,Zinc Deficiency,1,45,False,False,True,False,False
+57,True,True,Thyroid Problems,Antidepressants ,No Data,0,21,True,False,False,True,True
+58,True,True,No Data,Antifungal Cream,Omega-3 fatty acids,2,50,False,True,False,True,False
+59,False,False,Androgenetic Alopecia,Chemotherapy,Biotin Deficiency ,1,35,False,True,False,False,True
+60,True,False,No Data,Antidepressants ,Selenium deficiency,0,50,True,False,False,False,False
+61,False,False,Dermatitis,Rogaine,Zinc Deficiency,2,34,True,True,True,True,False
+62,False,False,Psoriasis,Chemotherapy,Iron deficiency,0,28,True,False,True,False,True
+63,True,True,Dermatitis,Antidepressants ,Vitamin E deficiency,1,27,False,False,False,True,False
+64,True,True,Dermatosis,Rogaine,Magnesium deficiency,0,35,True,True,False,False,True
+65,True,True,Dermatitis,Antidepressants ,Vitamin D Deficiency,2,25,True,False,False,True,False
+66,True,False,Dermatosis,Blood Pressure Medication,No Data,1,22,True,True,True,False,True
+67,False,True,Seborrheic Dermatitis,Antibiotics,Vitamin D Deficiency,1,43,True,True,True,False,False
+68,True,False,Thyroid Problems,Accutane,Zinc Deficiency,2,44,False,False,False,False,False
+69,True,False,Seborrheic Dermatitis,Heart Medication ,Magnesium deficiency,2,34,False,False,True,False,True
+70,True,False,Alopecia Areata ,Steroids,No Data,1,23,False,True,False,False,True
+71,True,False,Psoriasis,Chemotherapy,Vitamin D Deficiency,2,44,False,False,True,True,True
+72,True,True,Dermatosis,Heart Medication ,Vitamin A Deficiency,0,24,False,True,True,False,True
+73,False,False,Psoriasis,Antidepressants ,Zinc Deficiency,0,25,False,False,True,True,True
+74,False,True,Seborrheic Dermatitis,Blood Pressure Medication,Zinc Deficiency,1,50,True,False,False,True,True
+75,True,True,Androgenetic Alopecia,Antifungal Cream,Vitamin D Deficiency,2,38,False,False,False,False,True
+76,False,False,Seborrheic Dermatitis,Immunomodulators,No Data,2,22,False,True,False,False,True
+77,False,True,No Data,Heart Medication ,Vitamin E deficiency,2,49,True,False,True,True,False
+78,False,True,Dermatosis,Accutane,Zinc Deficiency,0,34,False,True,False,False,False
+79,False,False,No Data,Immunomodulators,Vitamin D Deficiency,2,47,False,True,True,False,True
+80,False,False,Androgenetic Alopecia,Blood Pressure Medication,Vitamin D Deficiency,2,24,True,False,True,False,False
+81,False,True,Seborrheic Dermatitis,Accutane,Vitamin E deficiency,0,41,True,False,True,False,False
+82,False,True,No Data,Antifungal Cream,Biotin Deficiency ,2,18,True,False,False,False,False
+83,True,True,Scalp Infection,Antifungal Cream,Zinc Deficiency,1,46,True,True,True,False,False
+84,True,False,Ringworm,Antifungal Cream,Omega-3 fatty acids,0,43,True,True,False,True,False
+85,True,True,Seborrheic Dermatitis,Blood Pressure Medication,Vitamin A Deficiency,0,32,False,False,False,False,True
+86,False,False,Ringworm,Steroids,Zinc Deficiency,0,31,True,True,False,False,True
+87,True,True,Dermatitis,Steroids,Magnesium deficiency,0,37,False,True,True,True,False
+88,False,False,Dermatosis,Antidepressants ,Vitamin A Deficiency,2,24,True,True,False,False,False
+89,True,True,Androgenetic Alopecia,Heart Medication ,Iron deficiency,1,46,False,False,False,True,True
+90,True,True,Alopecia Areata ,Rogaine,Zinc Deficiency,1,19,False,False,True,False,False
+91,True,False,Seborrheic Dermatitis,Blood Pressure Medication,Vitamin D Deficiency,1,34,True,True,False,False,True
+92,True,False,Psoriasis,Antibiotics,Vitamin D Deficiency,0,29,False,False,False,False,True
+93,False,False,Dermatitis,Steroids,Zinc Deficiency,1,28,True,True,True,True,True
+94,False,True,Seborrheic Dermatitis,Antibiotics,Iron deficiency,1,41,True,True,False,False,True
+95,True,True,Dermatosis,Antifungal Cream,Protein deficiency,1,37,False,False,False,True,True
+96,False,True,No Data,Immunomodulators,Iron deficiency,2,19,False,False,False,False,True
+97,True,False,Thyroid Problems,Steroids,Biotin Deficiency ,1,45,True,True,False,False,False
+98,True,False,Ringworm,Heart Medication ,Vitamin A Deficiency,2,39,False,False,True,True,True
+99,True,True,Seborrheic Dermatitis,Rogaine,Iron deficiency,2,24,True,True,True,True,False
+100,True,True,Androgenetic Alopecia,Antifungal Cream,Magnesium deficiency,1,27,False,False,False,False,True
+101,True,True,Ringworm,Heart Medication ,Vitamin D Deficiency,0,34,False,True,True,True,False
+102,True,False,Psoriasis,Blood Pressure Medication,Vitamin A Deficiency,1,19,True,False,True,False,True
+103,True,True,Psoriasis,Antifungal Cream,Iron deficiency,1,41,True,False,True,True,False
+104,False,True,Thyroid Problems,Steroids,Vitamin A Deficiency,0,37,True,False,True,False,False
+105,False,False,No Data,Antidepressants ,Iron deficiency,0,50,True,False,True,False,False
+106,False,True,Thyroid Problems,Antidepressants ,Protein deficiency,2,34,True,False,False,True,False
+107,True,False,Ringworm,Steroids,No Data,2,23,True,True,True,True,True
+108,True,True,Ringworm,Antidepressants ,Zinc Deficiency,0,37,False,True,True,False,False
+109,False,False,No Data,Accutane,Vitamin D Deficiency,0,50,False,False,False,False,True
+110,True,True,Ringworm,Immunomodulators,Omega-3 fatty acids,2,28,True,False,False,True,True
+111,False,True,Seborrheic Dermatitis,Antibiotics,Vitamin A Deficiency,2,24,False,True,True,False,True
+112,True,True,Alopecia Areata ,Antifungal Cream,Vitamin D Deficiency,1,36,False,False,False,True,True
+113,False,True,Alopecia Areata ,Antifungal Cream,Selenium deficiency,0,18,True,False,False,False,False
+114,False,True,Androgenetic Alopecia,Blood Pressure Medication,Biotin Deficiency ,1,24,True,True,True,False,False
+115,True,True,Psoriasis,Chemotherapy,Protein deficiency,0,24,False,True,False,False,False
+116,True,False,Thyroid Problems,Antibiotics,No Data,2,23,True,False,True,False,False
+117,True,False,Androgenetic Alopecia,Antidepressants ,Biotin Deficiency ,1,47,True,False,True,False,True
+118,True,True,Androgenetic Alopecia,Heart Medication ,Iron deficiency,1,29,True,False,True,False,True
+119,False,True,Eczema,Antidepressants ,Vitamin E deficiency,1,42,False,False,True,False,True
+120,True,False,Dermatitis,Antifungal Cream,Selenium deficiency,0,27,True,False,True,False,False
+121,True,False,Psoriasis,Antifungal Cream,Biotin Deficiency ,2,35,False,False,False,False,False
+122,False,False,Eczema,Chemotherapy,No Data,1,23,False,False,True,False,False
+123,True,False,Scalp Infection,Antidepressants ,Protein deficiency,0,19,True,True,False,False,True
+124,True,True,Psoriasis,Chemotherapy,Biotin Deficiency ,2,24,True,True,True,False,False
+125,True,True,Alopecia Areata ,Steroids,Protein deficiency,0,35,False,False,True,True,False
+126,False,False,Dermatosis,Antidepressants ,Vitamin A Deficiency,0,30,False,True,False,False,True
+127,True,False,Eczema,Antibiotics,Vitamin A Deficiency,0,48,True,True,True,True,False
+128,True,True,Thyroid Problems,Heart Medication ,Biotin Deficiency ,0,30,True,True,True,True,False
+129,True,False,Seborrheic Dermatitis,Steroids,Zinc Deficiency,1,39,True,False,False,True,False
+130,True,False,Psoriasis,Antibiotics,Omega-3 fatty acids,1,47,False,True,True,True,False
+131,True,False,Thyroid Problems,Accutane,Biotin Deficiency ,0,43,True,True,False,False,True
+132,False,True,Androgenetic Alopecia,Chemotherapy,Magnesium deficiency,2,27,True,True,True,True,True
+133,False,True,Androgenetic Alopecia,Antibiotics,Zinc Deficiency,1,42,True,True,True,True,False
+134,False,False,Thyroid Problems,Antifungal Cream,No Data,1,23,False,True,True,False,False
+135,True,False,Seborrheic Dermatitis,Steroids,Biotin Deficiency ,0,42,True,False,True,False,True
+136,False,False,Ringworm,Heart Medication ,Selenium deficiency,0,37,False,False,False,True,True
+137,True,False,No Data,Antidepressants ,Selenium deficiency,2,18,True,False,False,True,True
+138,True,False,Androgenetic Alopecia,Heart Medication ,Vitamin E deficiency,2,34,False,True,True,True,False
+139,False,False,Psoriasis,Heart Medication ,Iron deficiency,0,18,True,True,False,False,False
+140,False,False,Scalp Infection,Chemotherapy,Iron deficiency,2,29,True,True,False,True,True
+141,False,True,Androgenetic Alopecia,Chemotherapy,Vitamin D Deficiency,2,27,False,True,True,True,True
+142,True,False,Scalp Infection,Rogaine,Selenium deficiency,1,35,False,True,False,True,False
+143,False,False,Psoriasis,Rogaine,Biotin Deficiency ,0,39,False,False,False,True,False
+144,True,False,No Data,Antidepressants ,Omega-3 fatty acids,2,50,True,True,False,False,False
+145,True,True,Dermatitis,Heart Medication ,Omega-3 fatty acids,1,32,True,False,False,False,True
+146,False,False,Dermatitis,Accutane,Magnesium deficiency,1,30,True,True,False,True,True
+147,False,True,Psoriasis,Antidepressants ,Protein deficiency,0,45,True,False,True,True,True
+148,False,True,Dermatitis,Chemotherapy,Zinc Deficiency,0,19,True,False,True,False,False
+149,False,False,Seborrheic Dermatitis,Antidepressants ,Iron deficiency,0,32,True,True,False,False,True
+150,False,True,Seborrheic Dermatitis,Steroids,Iron deficiency,1,20,False,True,True,False,True
+151,False,True,Thyroid Problems,Antidepressants ,Zinc Deficiency,1,32,False,True,False,False,False
+152,True,False,Scalp Infection,Immunomodulators,Protein deficiency,2,43,True,True,False,True,False
+153,False,True,Androgenetic Alopecia,Rogaine,Protein deficiency,1,38,True,False,False,True,True
+154,True,False,Thyroid Problems,Chemotherapy,Vitamin E deficiency,0,32,True,False,False,False,True
+155,True,True,Androgenetic Alopecia,Steroids,Iron deficiency,2,26,True,True,False,True,True
+156,False,True,Eczema,Antidepressants ,Vitamin D Deficiency,0,32,False,True,False,False,False
+157,False,False,Thyroid Problems,Rogaine,Omega-3 fatty acids,0,41,True,True,True,False,True
+158,False,False,Seborrheic Dermatitis,Steroids,Vitamin E deficiency,2,33,True,False,False,True,False
+159,True,False,Eczema,Antifungal Cream,Magnesium deficiency,1,20,False,False,True,True,True
+160,True,False,Alopecia Areata ,Antidepressants ,Selenium deficiency,1,35,True,False,False,True,True
+161,False,False,Androgenetic Alopecia,Rogaine,Biotin Deficiency ,0,26,True,False,True,False,False
+162,True,False,Androgenetic Alopecia,Accutane,Selenium deficiency,1,39,False,False,True,False,True
+163,True,False,Dermatosis,Heart Medication ,Omega-3 fatty acids,1,30,False,True,True,False,False
+164,True,False,Dermatosis,Immunomodulators,Protein deficiency,0,25,True,True,False,True,False
+165,False,False,No Data,Antibiotics,Selenium deficiency,0,49,False,True,False,False,False
+166,True,False,Seborrheic Dermatitis,Rogaine,Protein deficiency,1,33,False,True,False,False,False
+167,False,True,Scalp Infection,Rogaine,Protein deficiency,2,42,True,True,True,False,False
+168,True,False,Seborrheic Dermatitis,Blood Pressure Medication,Vitamin A Deficiency,2,43,True,True,False,False,False
+169,True,False,Androgenetic Alopecia,Antidepressants ,Biotin Deficiency ,1,45,False,True,True,True,True
+170,True,True,Psoriasis,Accutane,No Data,0,23,True,False,True,True,True
+171,False,False,Psoriasis,Antifungal Cream,Zinc Deficiency,1,50,True,True,True,False,False
+172,False,True,Alopecia Areata ,Heart Medication ,Selenium deficiency,1,26,True,False,True,True,False
+173,False,False,Dermatosis,Blood Pressure Medication,Vitamin D Deficiency,2,46,False,False,True,True,True
+174,True,False,Androgenetic Alopecia,Antibiotics,Vitamin A Deficiency,0,46,False,False,False,True,False
+175,False,False,Psoriasis,Heart Medication ,Selenium deficiency,0,18,False,False,False,True,True
+176,False,False,Thyroid Problems,Steroids,Vitamin A Deficiency,2,30,False,True,True,True,False
+177,False,False,Alopecia Areata ,Immunomodulators,Protein deficiency,2,42,True,True,False,False,False
+178,True,False,Dermatosis,Antifungal Cream,Biotin Deficiency ,0,36,False,True,False,True,False
+179,True,False,Androgenetic Alopecia,Antidepressants ,Biotin Deficiency ,0,41,False,False,True,True,False
+180,True,True,Dermatosis,Antibiotics,No Data,1,22,True,False,True,True,False
+181,False,False,Alopecia Areata ,Antifungal Cream,Magnesium deficiency,2,44,True,False,True,False,True
+182,True,True,Ringworm,Rogaine,Biotin Deficiency ,0,30,False,True,True,True,False
+183,True,False,No Data,Steroids,Vitamin E deficiency,2,47,True,True,False,False,True
+184,True,True,No Data,Heart Medication ,Biotin Deficiency ,2,18,False,True,True,True,False
+185,False,False,Thyroid Problems,Rogaine,Iron deficiency,1,29,True,False,False,True,False
+186,False,False,Dermatitis,Antifungal Cream,Magnesium deficiency,1,29,True,True,False,False,False
+187,False,True,Seborrheic Dermatitis,Heart Medication ,Biotin Deficiency ,1,47,False,False,False,True,True
+188,False,False,Thyroid Problems,Antidepressants ,Vitamin D Deficiency,2,36,True,False,False,False,False
+189,False,False,Ringworm,Immunomodulators,Zinc Deficiency,0,39,False,True,True,True,False
+190,False,False,Scalp Infection,Antifungal Cream,Vitamin A Deficiency,0,31,True,False,False,False,False
+191,True,False,Dermatosis,Rogaine,Vitamin E deficiency,0,33,False,False,False,False,True
+192,False,False,Alopecia Areata ,Antifungal Cream,Iron deficiency,1,24,False,True,False,False,False
+193,True,False,Psoriasis,Heart Medication ,Omega-3 fatty acids,0,32,True,False,True,True,False
+194,True,True,Alopecia Areata ,Immunomodulators,Magnesium deficiency,1,47,False,True,False,False,False
+195,True,False,Androgenetic Alopecia,Immunomodulators,Iron deficiency,2,25,False,False,False,True,False
+196,False,False,Alopecia Areata ,Chemotherapy,Biotin Deficiency ,0,44,True,True,False,False,True
+197,False,False,No Data,Immunomodulators,Zinc Deficiency,2,50,False,False,True,True,True
+198,True,True,Thyroid Problems,Antibiotics,Omega-3 fatty acids,1,30,True,True,True,False,False
+199,True,False,Alopecia Areata ,Antifungal Cream,Zinc Deficiency,2,44,False,False,False,True,True
+200,True,True,Scalp Infection,Rogaine,Protein deficiency,1,43,False,False,False,False,False
+201,True,True,No Data,Heart Medication ,Protein deficiency,2,18,False,False,True,False,False
+202,False,False,Androgenetic Alopecia,Immunomodulators,Protein deficiency,2,26,False,False,True,True,True
+203,True,True,Eczema,Steroids,Zinc Deficiency,0,35,False,True,True,False,False
+204,True,True,Ringworm,Heart Medication ,Selenium deficiency,1,27,False,True,True,False,True
+205,False,True,Androgenetic Alopecia,Antibiotics,Biotin Deficiency ,2,48,False,False,False,False,True
+206,True,True,No Data,Antifungal Cream,Selenium deficiency,0,47,True,False,False,False,True
+207,False,False,Ringworm,Accutane,Zinc Deficiency,2,45,True,False,False,True,False
+208,True,False,Thyroid Problems,Blood Pressure Medication,Zinc Deficiency,0,39,True,False,False,False,False
+209,False,False,Psoriasis,Steroids,Vitamin A Deficiency,2,48,False,True,True,False,True
+210,True,True,No Data,Blood Pressure Medication,Vitamin E deficiency,0,50,True,True,False,True,False
+211,True,True,Alopecia Areata ,Steroids,Zinc Deficiency,2,28,False,True,True,False,True
+212,False,False,Seborrheic Dermatitis,Antidepressants ,Vitamin A Deficiency,0,45,False,False,False,True,True
+213,False,False,Eczema,Heart Medication ,Protein deficiency,1,46,False,False,True,True,True
+214,True,True,Thyroid Problems,Heart Medication ,No Data,2,23,False,True,False,True,True
+215,False,True,Dermatosis,Chemotherapy,Magnesium deficiency,1,29,True,True,False,False,True
+216,False,True,Scalp Infection,Chemotherapy,Selenium deficiency,0,19,False,False,False,True,True
+217,False,True,Thyroid Problems,Accutane,Omega-3 fatty acids,2,30,False,False,False,True,True
+218,True,True,Scalp Infection,Blood Pressure Medication,Biotin Deficiency ,0,32,True,True,True,False,False
+219,False,True,Dermatitis,Heart Medication ,Zinc Deficiency,0,18,True,True,True,False,False
+220,True,True,Androgenetic Alopecia,Chemotherapy,Zinc Deficiency,1,27,False,True,True,True,False
+221,True,True,Alopecia Areata ,Immunomodulators,Vitamin E deficiency,1,27,False,False,False,False,True
+222,False,True,Thyroid Problems,Heart Medication ,Vitamin D Deficiency,1,39,False,True,True,False,False
+223,False,True,No Data,Chemotherapy,Omega-3 fatty acids,0,40,False,False,True,False,True
+224,True,True,Psoriasis,Rogaine,Iron deficiency,1,34,True,True,False,False,True
+225,True,True,Seborrheic Dermatitis,Chemotherapy,No Data,1,23,False,False,False,False,False
+226,True,True,Psoriasis,Immunomodulators,No Data,0,22,False,False,True,False,False
+227,False,False,Ringworm,Immunomodulators,Vitamin D Deficiency,0,42,True,False,True,False,False
+228,False,False,Alopecia Areata ,Antibiotics,Vitamin D Deficiency,0,42,True,True,False,True,False
+229,True,True,Thyroid Problems,Accutane,Iron deficiency,1,18,False,False,False,True,True
+230,False,False,Eczema,Heart Medication ,Zinc Deficiency,1,36,False,True,True,True,False
+231,True,True,Androgenetic Alopecia,Rogaine,Biotin Deficiency ,0,32,False,True,False,True,True
+232,True,False,Scalp Infection,Antifungal Cream,Vitamin A Deficiency,0,29,False,True,False,True,False
+233,False,True,Androgenetic Alopecia,Rogaine,Vitamin E deficiency,1,47,False,False,True,True,False
+234,True,True,Androgenetic Alopecia,Antifungal Cream,Vitamin E deficiency,0,30,False,True,False,True,True
+235,False,True,Ringworm,Rogaine,Selenium deficiency,1,18,False,False,True,False,True
+236,False,True,Seborrheic Dermatitis,Rogaine,No Data,2,22,False,True,False,False,True
+237,True,False,Dermatosis,Rogaine,Protein deficiency,1,47,True,False,True,True,True
+238,True,True,Dermatitis,Accutane,Biotin Deficiency ,1,38,False,True,False,True,True
+239,True,False,No Data,Antidepressants ,Vitamin A Deficiency,2,18,False,True,True,True,True
+240,True,True,Thyroid Problems,Antidepressants ,Iron deficiency,1,33,False,True,False,False,True
+241,True,True,Dermatitis,Chemotherapy,Biotin Deficiency ,1,50,True,False,True,True,False
+242,False,False,Androgenetic Alopecia,Antifungal Cream,Vitamin D Deficiency,1,44,True,True,True,True,False
+243,False,False,Seborrheic Dermatitis,Accutane,Vitamin A Deficiency,1,19,False,False,True,False,False
+244,False,True,Alopecia Areata ,Steroids,Biotin Deficiency ,0,20,True,False,True,False,True
+245,False,True,Androgenetic Alopecia,Rogaine,Vitamin A Deficiency,0,43,True,False,True,False,False
+246,True,False,Eczema,Steroids,Biotin Deficiency ,0,43,True,False,False,False,False
+247,True,False,Scalp Infection,Immunomodulators,Zinc Deficiency,0,43,True,False,False,True,False
+248,False,True,Thyroid Problems,Accutane,Protein deficiency,1,34,True,True,True,True,False
+249,True,True,Seborrheic Dermatitis,Antifungal Cream,Biotin Deficiency ,1,39,True,True,True,False,True
+250,True,True,Seborrheic Dermatitis,Antibiotics,Vitamin E deficiency,2,25,True,False,True,True,False
+251,True,True,Androgenetic Alopecia,Chemotherapy,Vitamin D Deficiency,1,26,True,True,False,True,True
+252,True,False,Dermatitis,Rogaine,No Data,0,21,False,False,True,False,True
+253,True,False,Alopecia Areata ,Accutane,Protein deficiency,2,37,False,False,True,True,False
+254,True,False,Thyroid Problems,Accutane,Selenium deficiency,1,45,True,True,True,False,False
+255,False,True,Alopecia Areata ,Blood Pressure Medication,Zinc Deficiency,2,24,False,False,True,True,False
+256,False,False,Eczema,Antidepressants ,Vitamin D Deficiency,2,48,False,True,True,True,False
+257,True,False,Dermatitis,Steroids,Iron deficiency,1,27,False,False,True,False,False
+258,False,True,Seborrheic Dermatitis,Steroids,Vitamin D Deficiency,2,37,False,False,False,False,False
+259,True,False,Alopecia Areata ,Accutane,Protein deficiency,0,31,True,True,False,True,True
+260,True,False,Dermatitis,Blood Pressure Medication,Zinc Deficiency,1,45,False,True,True,True,False
+261,True,True,Eczema,Immunomodulators,Vitamin E deficiency,1,25,True,False,False,False,True
+262,True,False,Scalp Infection,Rogaine,Vitamin A Deficiency,2,42,False,False,True,True,True
+263,True,False,Scalp Infection,Chemotherapy,Biotin Deficiency ,0,38,False,True,False,False,True
+264,False,True,Thyroid Problems,Immunomodulators,Vitamin E deficiency,0,33,True,True,False,True,False
+265,True,True,Ringworm,Immunomodulators,Vitamin E deficiency,1,34,False,True,True,False,True
+266,True,False,Dermatosis,Rogaine,Omega-3 fatty acids,1,46,True,True,True,False,False
+267,True,True,Dermatosis,Blood Pressure Medication,Zinc Deficiency,1,25,True,True,False,False,True
+268,True,True,Scalp Infection,Rogaine,Vitamin E deficiency,2,44,False,False,False,False,True
+269,True,False,No Data,Heart Medication ,Vitamin D Deficiency,0,50,False,True,True,True,True
+270,True,True,Androgenetic Alopecia,Antidepressants ,Biotin Deficiency ,2,35,True,False,False,False,False
+271,False,True,No Data,Antifungal Cream,Vitamin A Deficiency,2,18,False,True,False,False,True
+272,False,False,No Data,Immunomodulators,Selenium deficiency,2,47,True,False,False,True,True
+273,False,False,Dermatosis,Accutane,Protein deficiency,1,26,False,True,False,True,False
+274,False,True,Scalp Infection,Blood Pressure Medication,Omega-3 fatty acids,2,26,True,False,True,True,False
+275,False,False,Thyroid Problems,Steroids,Magnesium deficiency,1,42,False,False,True,False,True
+276,False,True,Eczema,Antibiotics,Zinc Deficiency,2,37,False,True,False,False,False
+277,False,True,Dermatosis,Steroids,Vitamin E deficiency,0,44,True,False,True,False,False
+278,True,True,Eczema,Rogaine,Vitamin D Deficiency,0,32,False,True,False,True,True
+279,True,False,Scalp Infection,Steroids,Magnesium deficiency,1,36,False,False,False,True,True
+280,False,True,Dermatitis,Rogaine,Iron deficiency,0,37,True,True,True,True,True
+281,False,True,No Data,Antidepressants ,Protein deficiency,0,49,False,True,False,True,False
+282,False,False,Dermatitis,Rogaine,Iron deficiency,0,39,True,True,False,True,False
+283,True,False,Thyroid Problems,Accutane,Biotin Deficiency ,1,47,False,False,False,True,True
+284,False,False,Eczema,Steroids,Zinc Deficiency,0,25,False,True,True,False,True
+285,False,False,No Data,Immunomodulators,Zinc Deficiency,2,47,False,False,False,False,False
+286,False,False,Psoriasis,Chemotherapy,Biotin Deficiency ,2,27,True,True,True,False,False
+287,True,False,No Data,Steroids,Magnesium deficiency,2,20,False,False,False,True,True
+288,False,False,Thyroid Problems,Heart Medication ,Iron deficiency,1,43,True,True,True,True,False
+289,True,True,Dermatitis,Heart Medication ,Zinc Deficiency,2,33,True,False,True,False,True
+290,False,True,Eczema,Rogaine,Vitamin E deficiency,2,24,False,True,True,False,False
+291,True,False,Psoriasis,Steroids,Magnesium deficiency,2,43,False,True,True,False,False
+292,True,False,Thyroid Problems,Rogaine,Omega-3 fatty acids,2,35,True,False,True,False,True
+293,True,True,Eczema,Chemotherapy,Zinc Deficiency,0,28,False,True,True,True,False
+294,True,False,Thyroid Problems,Heart Medication ,Biotin Deficiency ,0,41,True,True,True,False,False
+295,False,True,Thyroid Problems,Heart Medication ,Vitamin E deficiency,2,36,False,True,True,False,True
+296,False,True,No Data,Antidepressants ,Iron deficiency,2,47,False,False,True,False,False
+297,True,True,Scalp Infection,Steroids,Zinc Deficiency,0,33,True,True,False,False,True
+298,True,True,Ringworm,Steroids,Vitamin A Deficiency,0,38,False,True,True,False,False
+299,True,True,Alopecia Areata ,Blood Pressure Medication,No Data,1,21,True,False,True,False,True
+300,True,True,Ringworm,Accutane,Zinc Deficiency,2,45,False,True,False,True,False
+301,True,True,Thyroid Problems,Accutane,Omega-3 fatty acids,0,27,True,True,False,False,False
+302,True,True,Eczema,Antifungal Cream,Vitamin D Deficiency,0,29,False,False,True,True,False
+303,False,False,Dermatitis,Antifungal Cream,No Data,0,21,True,True,False,False,False
+304,False,False,Scalp Infection,Antidepressants ,Selenium deficiency,1,36,True,False,True,False,False
+305,True,True,Dermatosis,Heart Medication ,Zinc Deficiency,1,38,True,False,True,True,False
+306,True,True,Alopecia Areata ,Antibiotics,Selenium deficiency,1,32,False,True,True,False,True
+307,False,True,No Data,Chemotherapy,Zinc Deficiency,0,40,True,False,True,True,True
+308,True,True,No Data,Accutane,Vitamin E deficiency,0,40,True,False,True,True,True
+309,True,False,Eczema,Heart Medication ,Zinc Deficiency,1,33,False,False,True,False,True
+310,True,False,Dermatitis,Immunomodulators,No Data,0,22,True,False,False,True,True
+311,False,True,Seborrheic Dermatitis,Antifungal Cream,Vitamin E deficiency,0,18,True,True,True,False,False
+312,False,True,Dermatitis,Antidepressants ,Selenium deficiency,2,38,False,False,False,True,False
+313,True,True,Scalp Infection,Steroids,Zinc Deficiency,2,26,True,True,True,True,True
+314,True,True,Dermatosis,Antifungal Cream,No Data,2,22,False,False,False,False,False
+315,False,False,Androgenetic Alopecia,Accutane,No Data,0,21,False,False,False,True,False
+316,False,True,Androgenetic Alopecia,Rogaine,Zinc Deficiency,1,30,False,False,True,False,False
+317,False,True,Scalp Infection,Antifungal Cream,Zinc Deficiency,2,48,True,False,True,False,False
+318,True,False,Androgenetic Alopecia,Antifungal Cream,Vitamin D Deficiency,1,24,False,True,True,False,True
+319,True,True,Dermatitis,Heart Medication ,No Data,1,22,True,False,True,False,True
+320,False,True,No Data,Accutane,Vitamin A Deficiency,0,40,True,False,False,False,True
+321,True,True,Alopecia Areata ,Heart Medication ,Vitamin D Deficiency,2,44,True,True,True,False,True
+322,False,True,Dermatitis,Blood Pressure Medication,Vitamin D Deficiency,1,47,True,False,True,True,False
+323,True,False,No Data,Accutane,Zinc Deficiency,2,47,True,False,True,False,True
+324,False,True,Androgenetic Alopecia,Antidepressants ,Vitamin D Deficiency,1,47,True,True,False,False,True
+325,True,False,Psoriasis,Rogaine,Omega-3 fatty acids,0,41,False,True,True,True,False
+326,False,True,Thyroid Problems,Antibiotics,Vitamin A Deficiency,0,45,True,True,False,False,True
+327,True,False,Psoriasis,Antidepressants ,Protein deficiency,1,26,True,False,True,True,False
+328,True,False,Eczema,Accutane,Omega-3 fatty acids,1,29,True,False,True,False,True
+329,True,False,Androgenetic Alopecia,Rogaine,No Data,0,22,True,False,True,False,False
+330,False,True,Thyroid Problems,Heart Medication ,Vitamin D Deficiency,1,39,False,True,False,False,False
+331,False,True,Scalp Infection,Blood Pressure Medication,Vitamin E deficiency,2,27,True,True,False,False,True
+332,True,True,Androgenetic Alopecia,Rogaine,Vitamin D Deficiency,2,48,True,False,False,True,True
+333,True,True,Seborrheic Dermatitis,Antibiotics,Vitamin D Deficiency,1,29,False,False,True,True,True
+334,True,False,Psoriasis,Accutane,Biotin Deficiency ,0,33,True,False,False,False,False
+335,True,True,Scalp Infection,Antibiotics,Vitamin D Deficiency,2,46,False,False,False,False,True
+336,False,True,Psoriasis,Blood Pressure Medication,Omega-3 fatty acids,0,45,False,True,True,True,False
+337,False,True,Thyroid Problems,Blood Pressure Medication,Biotin Deficiency ,1,32,False,True,True,True,False
+338,True,True,Psoriasis,Blood Pressure Medication,Magnesium deficiency,2,35,True,False,True,True,True
+339,False,True,Ringworm,Blood Pressure Medication,Omega-3 fatty acids,2,25,True,False,False,False,False
+340,False,True,Dermatosis,Chemotherapy,Biotin Deficiency ,0,31,True,False,False,True,False
+341,True,True,No Data,Antifungal Cream,Zinc Deficiency,2,40,False,True,True,False,False
+342,False,True,Alopecia Areata ,Accutane,Omega-3 fatty acids,2,30,False,False,True,False,False
+343,True,False,No Data,Heart Medication ,Protein deficiency,0,49,False,True,True,False,False
+344,False,True,Androgenetic Alopecia,Steroids,No Data,2,23,True,False,False,False,True
+345,False,True,Alopecia Areata ,Heart Medication ,Omega-3 fatty acids,0,43,True,True,True,True,True
+346,False,True,Dermatitis,Antidepressants ,Selenium deficiency,1,38,False,False,True,False,False
+347,True,False,Alopecia Areata ,Accutane,Biotin Deficiency ,2,31,True,False,True,False,True
+348,False,True,Scalp Infection,Accutane,Biotin Deficiency ,0,36,False,True,True,True,False
+349,False,True,Dermatosis,Antifungal Cream,Omega-3 fatty acids,2,28,False,True,False,True,True
+350,True,False,No Data,Steroids,Vitamin E deficiency,2,50,True,True,True,True,False
+351,False,True,Thyroid Problems,Rogaine,Vitamin A Deficiency,0,48,False,False,True,False,True
+352,True,True,Seborrheic Dermatitis,Accutane,Selenium deficiency,2,28,False,False,False,False,True
+353,True,True,Dermatitis,Chemotherapy,No Data,0,22,True,True,False,False,False
+354,False,False,No Data,Chemotherapy,Magnesium deficiency,0,40,True,True,True,False,False
+355,False,True,Alopecia Areata ,Immunomodulators,Vitamin A Deficiency,2,27,False,False,True,False,False
+356,True,False,Eczema,Chemotherapy,Vitamin A Deficiency,1,32,True,False,False,False,False
+357,True,True,Eczema,Blood Pressure Medication,Magnesium deficiency,0,18,False,True,False,True,False
+358,True,True,No Data,Blood Pressure Medication,Magnesium deficiency,0,47,False,False,True,True,False
+359,True,False,Dermatitis,Antibiotics,Iron deficiency,1,41,False,False,False,False,True
+360,False,True,Scalp Infection,Antidepressants ,Omega-3 fatty acids,2,41,False,True,True,True,True
+361,True,False,Dermatitis,Chemotherapy,Vitamin E deficiency,2,43,True,True,True,True,True
+362,True,False,Thyroid Problems,Antidepressants ,Protein deficiency,1,48,False,True,True,True,False
+363,False,False,Seborrheic Dermatitis,Accutane,Vitamin A Deficiency,0,41,True,True,False,True,True
+364,True,True,Dermatosis,Antidepressants ,Vitamin D Deficiency,1,19,False,True,False,True,True
+365,True,False,Androgenetic Alopecia,Chemotherapy,No Data,1,22,False,False,False,True,True
+366,True,False,Psoriasis,Antibiotics,Magnesium deficiency,0,35,False,True,False,True,True
+367,True,True,Psoriasis,Heart Medication ,Vitamin D Deficiency,2,38,False,False,False,False,True
+368,True,False,No Data,Antibiotics,Magnesium deficiency,2,20,True,True,True,True,False
+369,True,False,Seborrheic Dermatitis,Rogaine,Biotin Deficiency ,1,40,False,False,True,True,True
+370,False,True,Seborrheic Dermatitis,Accutane,Iron deficiency,0,30,False,False,True,True,True
+371,True,True,Psoriasis,Immunomodulators,Selenium deficiency,1,40,False,False,False,False,True
+372,False,False,Psoriasis,Blood Pressure Medication,Protein deficiency,2,43,False,True,True,True,False
+373,False,False,Ringworm,Chemotherapy,Zinc Deficiency,2,28,False,False,True,True,True
+374,False,False,Psoriasis,Chemotherapy,Omega-3 fatty acids,0,48,True,True,False,False,False
+375,False,False,Ringworm,Antidepressants ,Selenium deficiency,1,40,True,True,False,False,True
+376,True,False,Seborrheic Dermatitis,Antibiotics,Vitamin A Deficiency,0,33,True,True,True,False,False
+377,True,True,Alopecia Areata ,Rogaine,Vitamin A Deficiency,0,19,True,True,False,True,True
+378,True,False,Alopecia Areata ,Blood Pressure Medication,Selenium deficiency,1,20,False,True,False,False,True
+379,False,True,Psoriasis,Heart Medication ,No Data,0,23,False,False,False,True,False
+380,True,True,Ringworm,Immunomodulators,Vitamin E deficiency,2,36,True,True,True,False,False
+381,True,True,Dermatosis,Steroids,Zinc Deficiency,1,43,False,False,False,False,True
+382,True,True,Thyroid Problems,Steroids,Iron deficiency,1,29,False,False,True,True,True
+383,True,True,Thyroid Problems,Accutane,No Data,1,21,True,True,False,False,True
+384,False,True,No Data,Rogaine,Biotin Deficiency ,0,40,False,True,True,False,False
+385,True,True,Dermatitis,Antifungal Cream,Vitamin D Deficiency,1,46,True,False,True,False,True
+386,True,True,No Data,Chemotherapy,Vitamin A Deficiency,2,19,False,False,True,False,True
+387,True,False,Psoriasis,Blood Pressure Medication,Vitamin A Deficiency,2,24,False,True,False,False,True
+388,True,False,Thyroid Problems,Antifungal Cream,Selenium deficiency,0,25,True,False,True,True,False
+389,False,True,Dermatitis,Antifungal Cream,Zinc Deficiency,2,43,False,False,False,False,True
+390,False,False,Seborrheic Dermatitis,Antifungal Cream,Vitamin D Deficiency,1,43,True,False,True,False,True
+391,False,False,Ringworm,Rogaine,Protein deficiency,0,39,True,False,True,False,True
+392,True,False,Dermatosis,Accutane,No Data,0,21,True,True,False,False,True
+393,True,True,Psoriasis,Rogaine,Zinc Deficiency,1,46,False,True,False,True,False
+394,False,True,Thyroid Problems,Chemotherapy,Vitamin D Deficiency,1,36,True,True,True,True,True
+395,True,False,Scalp Infection,Accutane,Vitamin D Deficiency,0,33,False,False,True,True,False
+396,True,True,Androgenetic Alopecia,Blood Pressure Medication,Vitamin A Deficiency,0,29,True,True,False,True,False
+397,False,False,Androgenetic Alopecia,Antidepressants ,Vitamin A Deficiency,1,44,False,False,False,False,False
+398,True,True,Androgenetic Alopecia,Antibiotics,Vitamin A Deficiency,1,39,True,False,True,True,True
+399,True,True,Dermatosis,Steroids,Vitamin D Deficiency,1,32,True,False,True,False,False
+400,True,False,Thyroid Problems,Antidepressants ,Biotin Deficiency ,1,44,False,True,False,False,False
+401,True,True,Alopecia Areata ,Antifungal Cream,Biotin Deficiency ,1,20,False,True,True,False,True
+402,True,False,Alopecia Areata ,Chemotherapy,Vitamin D Deficiency,2,42,True,True,True,True,True
+403,False,True,No Data,Steroids,Magnesium deficiency,0,40,False,False,True,True,False
+404,True,False,Alopecia Areata ,Chemotherapy,Vitamin D Deficiency,2,36,True,True,True,False,False
+405,True,False,Ringworm,Heart Medication ,Biotin Deficiency ,0,27,False,False,False,True,True
+406,True,False,No Data,Antidepressants ,Selenium deficiency,2,18,True,False,False,True,True
+407,True,True,Thyroid Problems,Antibiotics,Selenium deficiency,1,25,True,False,True,True,True
+408,False,False,Psoriasis,Immunomodulators,Vitamin E deficiency,0,41,True,False,False,True,False
+409,True,True,Alopecia Areata ,Accutane,Selenium deficiency,1,26,False,True,True,False,False
+410,True,False,Scalp Infection,Heart Medication ,Selenium deficiency,2,34,True,True,False,True,True
+411,False,False,Scalp Infection,Rogaine,Biotin Deficiency ,2,35,False,False,False,False,True
+412,True,False,Dermatitis,Antidepressants ,Biotin Deficiency ,1,32,True,False,True,False,True
+413,False,False,Eczema,Blood Pressure Medication,Omega-3 fatty acids,0,32,True,False,True,False,True
+414,False,False,Thyroid Problems,Rogaine,Selenium deficiency,2,46,True,True,True,True,False
+415,True,False,No Data,Rogaine,Omega-3 fatty acids,0,47,True,True,True,False,False
+416,False,True,Eczema,Blood Pressure Medication,Vitamin A Deficiency,2,45,False,False,False,False,False
+417,True,True,Dermatosis,Antidepressants ,Protein deficiency,0,32,False,True,False,True,True
+418,True,False,Androgenetic Alopecia,Antibiotics,No Data,0,21,True,True,True,False,True
+419,False,True,No Data,Rogaine,Vitamin E deficiency,0,40,False,False,False,False,False
+420,False,True,Androgenetic Alopecia,Accutane,Vitamin D Deficiency,1,32,True,False,True,True,True
+421,False,False,Eczema,Antibiotics,Protein deficiency,2,36,True,False,False,True,True
+422,True,False,Psoriasis,Steroids,No Data,2,22,True,True,False,False,True
+423,True,True,Scalp Infection,Rogaine,Vitamin D Deficiency,1,38,False,True,True,True,False
+424,False,False,Ringworm,Steroids,Protein deficiency,2,45,False,True,True,True,False
+425,False,True,Psoriasis,Immunomodulators,Omega-3 fatty acids,1,41,True,False,True,False,False
+426,True,False,Eczema,Immunomodulators,Vitamin A Deficiency,0,19,True,True,False,False,False
+427,False,False,Psoriasis,Steroids,No Data,1,23,True,False,False,True,False
+428,False,False,Androgenetic Alopecia,Antifungal Cream,Selenium deficiency,1,37,False,False,True,False,True
+429,False,False,Seborrheic Dermatitis,Chemotherapy,Biotin Deficiency ,2,35,False,False,True,True,False
+430,True,False,Thyroid Problems,Rogaine,Biotin Deficiency ,1,20,False,True,True,True,True
+431,False,True,Alopecia Areata ,Chemotherapy,Iron deficiency,0,32,True,False,True,True,True
+432,True,False,Alopecia Areata ,Immunomodulators,Zinc Deficiency,1,44,False,False,False,True,False
+433,True,False,Thyroid Problems,Accutane,Vitamin A Deficiency,0,43,True,True,True,True,True
+434,False,True,Thyroid Problems,Blood Pressure Medication,Magnesium deficiency,0,19,False,False,True,True,True
+435,True,True,Alopecia Areata ,Accutane,Vitamin E deficiency,0,48,False,False,False,True,True
+436,True,False,Psoriasis,Accutane,Vitamin A Deficiency,1,33,True,False,False,False,True
+437,True,True,No Data,Rogaine,Vitamin E deficiency,2,40,True,False,True,False,False
+438,True,True,Dermatosis,Heart Medication ,Vitamin E deficiency,2,27,True,False,False,True,False
+439,False,True,Psoriasis,Heart Medication ,Vitamin D Deficiency,0,46,False,True,False,True,False
+440,False,True,Thyroid Problems,Antibiotics,Protein deficiency,1,26,True,False,False,True,False
+441,False,True,Scalp Infection,Accutane,Selenium deficiency,0,24,True,False,False,False,False
+442,True,False,No Data,Accutane,Iron deficiency,2,47,False,True,True,False,False
+443,False,True,Alopecia Areata ,Heart Medication ,Magnesium deficiency,1,32,True,True,True,False,False
+444,True,False,No Data,Antifungal Cream,Biotin Deficiency ,0,40,False,True,True,False,False
+445,True,False,Ringworm,Antibiotics,Vitamin A Deficiency,0,18,False,True,False,False,False
+446,False,False,Eczema,Steroids,Vitamin D Deficiency,1,32,False,True,True,True,False
+447,False,True,Eczema,Rogaine,Magnesium deficiency,2,48,True,True,True,True,True
+448,False,True,No Data,Heart Medication ,Iron deficiency,2,49,False,False,False,False,True
+449,True,False,Thyroid Problems,Accutane,Biotin Deficiency ,1,43,False,True,True,True,False
+450,True,False,Psoriasis,Heart Medication ,Magnesium deficiency,0,29,False,True,False,True,True
+451,False,False,Thyroid Problems,Blood Pressure Medication,Selenium deficiency,2,44,False,True,False,True,False
+452,True,False,No Data,Accutane,Selenium deficiency,2,50,False,False,False,True,False
+453,False,True,Thyroid Problems,Heart Medication ,No Data,2,23,False,False,True,True,True
+454,False,False,Dermatosis,Antidepressants ,Vitamin D Deficiency,1,32,True,False,False,False,False
+455,False,False,Thyroid Problems,Blood Pressure Medication,Selenium deficiency,2,31,False,False,True,True,False
+456,False,False,Eczema,Rogaine,Omega-3 fatty acids,1,34,True,True,False,True,False
+457,True,False,Psoriasis,Steroids,Iron deficiency,1,41,False,False,True,False,False
+458,False,True,Dermatosis,Heart Medication ,Omega-3 fatty acids,0,42,False,False,False,False,True
+459,False,True,Dermatosis,Antidepressants ,Vitamin E deficiency,1,34,False,True,False,True,True
+460,False,True,Scalp Infection,Accutane,Vitamin E deficiency,2,24,True,True,True,True,True
+461,True,True,Ringworm,Heart Medication ,Zinc Deficiency,2,26,False,True,False,False,True
+462,False,False,Thyroid Problems,Steroids,Magnesium deficiency,2,29,True,False,True,True,True
+463,False,True,Dermatosis,Antibiotics,Selenium deficiency,1,31,False,False,False,False,True
+464,True,True,Alopecia Areata ,Rogaine,Biotin Deficiency ,0,18,True,False,True,True,True
+465,False,True,Ringworm,Accutane,Protein deficiency,2,37,True,True,False,False,False
+466,True,True,Ringworm,Chemotherapy,Selenium deficiency,1,50,True,False,False,False,False
+467,False,False,Seborrheic Dermatitis,Heart Medication ,Magnesium deficiency,1,41,True,False,True,False,True
+468,False,False,Psoriasis,Accutane,Protein deficiency,2,29,True,True,False,True,True
+469,True,True,No Data,Antidepressants ,Vitamin D Deficiency,2,49,True,False,True,True,True
+470,False,True,Seborrheic Dermatitis,Accutane,Omega-3 fatty acids,1,48,False,True,False,False,True
+471,False,True,Dermatosis,Rogaine,Zinc Deficiency,1,27,True,True,True,True,True
+472,True,False,No Data,Antifungal Cream,Zinc Deficiency,0,49,False,True,True,True,False
+473,False,True,Ringworm,Antibiotics,Protein deficiency,1,28,False,True,True,False,True
+474,True,False,No Data,Blood Pressure Medication,Vitamin D Deficiency,2,49,False,True,False,False,False
+475,True,False,Eczema,Steroids,Vitamin A Deficiency,0,27,True,False,False,True,False
+476,False,False,Scalp Infection,Steroids,Magnesium deficiency,0,39,True,False,True,True,True
+477,False,True,Seborrheic Dermatitis,Immunomodulators,Zinc Deficiency,1,35,False,True,False,True,True
+478,True,True,Androgenetic Alopecia,Antidepressants ,Magnesium deficiency,1,38,False,False,False,False,True
+479,False,True,Ringworm,Chemotherapy,Vitamin E deficiency,1,37,False,True,True,True,True
+480,False,True,Scalp Infection,Rogaine,No Data,2,23,True,False,False,True,False
+481,True,False,Alopecia Areata ,Antibiotics,Vitamin A Deficiency,1,28,False,False,True,True,False
+482,False,False,Thyroid Problems,Blood Pressure Medication,Vitamin A Deficiency,2,41,False,True,True,True,False
+483,True,False,Alopecia Areata ,Blood Pressure Medication,Biotin Deficiency ,1,35,False,False,True,True,False
+484,False,False,Alopecia Areata ,Antifungal Cream,Vitamin A Deficiency,2,28,True,True,False,True,False
+485,True,False,Scalp Infection,Antifungal Cream,Vitamin A Deficiency,0,42,False,False,False,True,True
+486,True,True,No Data,Blood Pressure Medication,Omega-3 fatty acids,0,40,False,True,True,False,True
+487,True,True,Dermatitis,Antibiotics,Iron deficiency,0,33,False,False,True,False,True
+488,False,False,Alopecia Areata ,Antifungal Cream,Biotin Deficiency ,0,39,False,False,False,False,False
+489,False,False,No Data,Antifungal Cream,Selenium deficiency,2,40,False,False,False,True,True
+490,True,False,No Data,Heart Medication ,Omega-3 fatty acids,0,47,True,True,False,False,False
+491,True,False,Dermatitis,Blood Pressure Medication,Magnesium deficiency,0,28,True,False,False,True,True
+492,True,True,Ringworm,Steroids,Vitamin D Deficiency,1,18,True,False,True,True,False
+493,False,False,Thyroid Problems,Chemotherapy,Zinc Deficiency,1,45,False,True,True,False,False
+494,True,False,No Data,Steroids,Biotin Deficiency ,2,50,True,False,True,True,False
+495,False,False,Dermatitis,Antidepressants ,Vitamin D Deficiency,0,18,True,True,True,True,True
+496,True,True,No Data,Rogaine,Iron deficiency,0,47,True,False,False,False,True
+497,False,False,Eczema,Steroids,Omega-3 fatty acids,0,32,True,True,False,True,True
+498,False,False,Seborrheic Dermatitis,Immunomodulators,Vitamin E deficiency,2,43,True,True,True,True,False
+499,False,True,No Data,Immunomodulators,Magnesium deficiency,2,18,False,True,False,False,True
+500,False,False,Alopecia Areata ,Steroids,Vitamin A Deficiency,2,24,False,False,True,False,True
+501,True,True,Androgenetic Alopecia,Heart Medication ,Vitamin D Deficiency,1,34,True,True,True,False,True
+502,True,False,Alopecia Areata ,Chemotherapy,Magnesium deficiency,0,30,False,True,False,True,True
+503,False,True,Ringworm,Antibiotics,Zinc Deficiency,1,41,False,False,True,False,False
+504,False,False,Thyroid Problems,Antidepressants ,Selenium deficiency,1,50,True,True,True,True,True
+505,True,False,Psoriasis,Blood Pressure Medication,Selenium deficiency,1,40,False,True,False,False,False
+506,True,False,Dermatitis,Immunomodulators,Iron deficiency,1,31,False,True,True,False,False
+507,True,False,Dermatitis,Accutane,Magnesium deficiency,0,24,True,False,True,False,False
+508,True,False,Ringworm,Steroids,Selenium deficiency,1,31,True,False,True,False,False
+509,True,True,Alopecia Areata ,Antidepressants ,Vitamin A Deficiency,1,37,False,True,True,False,False
+510,False,False,Psoriasis,Steroids,Magnesium deficiency,1,50,True,True,True,True,False
+511,True,False,Ringworm,Chemotherapy,No Data,2,23,True,True,True,True,True
+512,False,True,Scalp Infection,Heart Medication ,Vitamin D Deficiency,1,18,False,False,False,False,False
+513,False,False,Seborrheic Dermatitis,Steroids,Omega-3 fatty acids,2,29,False,True,True,False,True
+514,False,False,Seborrheic Dermatitis,Blood Pressure Medication,Zinc Deficiency,2,48,False,True,True,True,True
+515,True,False,Thyroid Problems,Blood Pressure Medication,Zinc Deficiency,1,39,False,False,False,True,True
+516,False,True,Ringworm,Heart Medication ,Vitamin E deficiency,2,46,False,False,False,True,False
+517,True,True,Dermatitis,Antidepressants ,No Data,0,22,True,True,True,False,False
+518,False,True,No Data,Blood Pressure Medication,Magnesium deficiency,2,47,False,False,False,True,False
+519,False,True,Dermatitis,Heart Medication ,Vitamin A Deficiency,2,48,False,True,True,True,True
+520,True,False,Androgenetic Alopecia,Heart Medication ,Vitamin E deficiency,0,24,True,True,True,False,True
+521,True,False,Ringworm,Rogaine,Iron deficiency,1,36,False,False,False,True,True
+522,True,True,Psoriasis,Rogaine,Zinc Deficiency,0,37,True,True,True,True,True
+523,False,True,Psoriasis,Antidepressants ,Protein deficiency,1,49,False,False,False,False,False
+524,False,False,Dermatitis,Rogaine,Protein deficiency,1,33,False,True,True,True,True
+525,False,False,Dermatitis,Immunomodulators,Omega-3 fatty acids,0,36,False,False,True,True,True
+526,True,True,Scalp Infection,Steroids,Biotin Deficiency ,0,29,False,True,False,False,False
+527,False,True,Dermatitis,Immunomodulators,Protein deficiency,1,44,False,True,False,False,True
+528,True,False,Seborrheic Dermatitis,Accutane,Omega-3 fatty acids,0,36,True,False,True,True,True
+529,False,True,Thyroid Problems,Antidepressants ,Zinc Deficiency,0,45,False,True,True,True,False
+530,True,True,Androgenetic Alopecia,Rogaine,Omega-3 fatty acids,1,34,True,False,True,True,True
+531,True,True,Androgenetic Alopecia,Antidepressants ,Iron deficiency,1,46,False,False,True,False,False
+532,False,False,Seborrheic Dermatitis,Heart Medication ,Vitamin A Deficiency,2,48,False,False,True,False,False
+533,True,False,Thyroid Problems,Antifungal Cream,Zinc Deficiency,1,49,True,False,False,False,True
+534,False,True,Alopecia Areata ,Antifungal Cream,Protein deficiency,1,34,True,False,True,True,True
+535,False,True,Psoriasis,Antifungal Cream,Omega-3 fatty acids,1,32,False,False,True,False,True
+536,False,False,Alopecia Areata ,Accutane,No Data,2,21,False,False,False,True,False
+537,False,False,Dermatosis,Antidepressants ,Omega-3 fatty acids,1,49,True,False,True,False,True
+538,True,False,Androgenetic Alopecia,Heart Medication ,Iron deficiency,0,48,True,True,False,True,False
+539,False,False,Thyroid Problems,Rogaine,Vitamin E deficiency,2,33,False,False,False,False,True
+540,True,False,Seborrheic Dermatitis,Rogaine,Omega-3 fatty acids,0,25,True,False,False,True,False
+541,True,True,Alopecia Areata ,Accutane,Omega-3 fatty acids,1,41,True,False,True,False,False
+542,False,False,Androgenetic Alopecia,Immunomodulators,Iron deficiency,0,41,False,False,False,False,True
+543,True,True,Eczema,Antidepressants ,Iron deficiency,2,36,False,True,True,True,False
+544,False,False,Dermatosis,Immunomodulators,Vitamin A Deficiency,1,29,False,True,False,False,True
+545,False,True,Seborrheic Dermatitis,Antidepressants ,Zinc Deficiency,0,18,False,True,True,False,True
+546,True,False,Scalp Infection,Immunomodulators,Zinc Deficiency,1,43,True,True,True,False,True
+547,False,True,Dermatosis,Chemotherapy,Vitamin E deficiency,0,39,False,True,True,True,False
+548,False,True,Thyroid Problems,Rogaine,Magnesium deficiency,0,48,True,True,False,True,True
+549,False,True,Androgenetic Alopecia,Heart Medication ,Protein deficiency,1,37,True,False,True,True,True
+550,True,False,Dermatosis,Steroids,Vitamin E deficiency,0,24,True,True,False,False,False
+551,True,False,Scalp Infection,Steroids,Omega-3 fatty acids,0,43,True,True,False,True,False
+552,False,True,Androgenetic Alopecia,Antifungal Cream,Biotin Deficiency ,2,28,True,False,True,False,False
+553,False,True,Dermatitis,Immunomodulators,Vitamin A Deficiency,1,41,True,False,False,False,False
+554,False,True,Scalp Infection,Steroids,Vitamin D Deficiency,2,38,True,True,False,False,True
+555,True,True,Alopecia Areata ,Heart Medication ,Vitamin E deficiency,0,28,True,True,False,False,False
+556,False,False,No Data,Antidepressants ,Vitamin E deficiency,0,40,True,True,True,False,True
+557,True,False,Psoriasis,Immunomodulators,Vitamin A Deficiency,2,28,False,False,False,True,False
+558,False,False,No Data,Steroids,Vitamin E deficiency,2,49,True,False,True,True,False
+559,False,True,Psoriasis,Rogaine,Magnesium deficiency,1,29,True,True,False,False,True
+560,False,False,Psoriasis,Antidepressants ,Protein deficiency,1,46,True,False,False,False,False
+561,False,False,Androgenetic Alopecia,Rogaine,Magnesium deficiency,0,35,True,False,False,True,False
+562,False,True,Dermatitis,Rogaine,Magnesium deficiency,1,24,False,True,True,False,True
+563,False,False,Alopecia Areata ,Chemotherapy,Selenium deficiency,0,38,False,False,False,False,True
+564,False,False,Ringworm,Accutane,Iron deficiency,0,36,False,False,False,True,True
+565,True,True,No Data,Antidepressants ,Biotin Deficiency ,2,19,False,False,False,False,True
+566,True,False,No Data,Immunomodulators,Biotin Deficiency ,0,40,True,True,True,False,True
+567,False,False,Androgenetic Alopecia,Antibiotics,Vitamin D Deficiency,2,45,True,True,False,True,False
+568,True,True,Ringworm,Chemotherapy,Biotin Deficiency ,0,31,True,True,True,True,False
+569,False,False,Psoriasis,Blood Pressure Medication,Vitamin A Deficiency,0,29,True,True,True,False,True
+570,True,False,No Data,Accutane,Zinc Deficiency,0,50,True,True,False,True,False
+571,True,True,Thyroid Problems,Chemotherapy,Iron deficiency,0,24,False,False,True,False,True
+572,True,True,Eczema,Chemotherapy,Zinc Deficiency,0,42,False,True,True,False,False
+573,False,True,Dermatosis,Blood Pressure Medication,Vitamin E deficiency,0,46,True,False,False,True,True
+574,False,True,Seborrheic Dermatitis,Accutane,Iron deficiency,2,34,True,True,True,False,False
+575,False,True,Androgenetic Alopecia,Immunomodulators,Protein deficiency,1,24,False,False,True,False,True
+576,False,False,Thyroid Problems,Blood Pressure Medication,Zinc Deficiency,0,37,True,True,False,True,False
+577,True,False,Psoriasis,Accutane,Vitamin A Deficiency,1,29,False,True,True,True,False
+578,True,True,Dermatitis,Antibiotics,Omega-3 fatty acids,2,39,False,False,False,False,False
+579,True,False,Eczema,Antibiotics,Biotin Deficiency ,2,26,True,True,False,False,True
+580,False,True,Seborrheic Dermatitis,Antidepressants ,Vitamin D Deficiency,2,38,False,True,True,True,False
+581,True,False,No Data,Antidepressants ,Zinc Deficiency,2,19,False,True,False,False,False
+582,True,False,Eczema,Antidepressants ,Protein deficiency,0,26,False,False,False,False,False
+583,True,False,Ringworm,Blood Pressure Medication,No Data,1,23,False,False,True,False,False
+584,True,True,Androgenetic Alopecia,Immunomodulators,Biotin Deficiency ,2,46,False,False,True,True,False
+585,True,True,No Data,Antifungal Cream,Protein deficiency,2,40,True,False,True,True,True
+586,True,True,Alopecia Areata ,Antibiotics,Vitamin D Deficiency,0,41,True,False,False,True,False
+587,True,False,No Data,Heart Medication ,Omega-3 fatty acids,2,18,True,True,False,True,True
+588,True,False,Psoriasis,Heart Medication ,Selenium deficiency,0,45,False,False,True,True,True
+589,False,False,No Data,Antibiotics,Vitamin D Deficiency,2,49,False,False,False,True,True
+590,True,False,Dermatosis,Rogaine,Vitamin D Deficiency,1,32,False,False,False,True,False
+591,True,False,Scalp Infection,Chemotherapy,No Data,2,22,True,False,False,False,False
+592,False,False,Psoriasis,Antidepressants ,Zinc Deficiency,0,28,False,True,True,False,True
+593,True,True,Thyroid Problems,Antidepressants ,Protein deficiency,2,34,True,True,True,True,False
+594,True,False,Scalp Infection,Antibiotics,Biotin Deficiency ,1,32,False,False,True,False,False
+595,False,True,Androgenetic Alopecia,Blood Pressure Medication,Magnesium deficiency,2,31,False,True,True,False,True
+596,True,True,Androgenetic Alopecia,Antibiotics,Vitamin D Deficiency,1,37,False,False,True,False,False
+597,True,True,Alopecia Areata ,Blood Pressure Medication,Iron deficiency,0,28,True,False,False,False,True
+598,True,False,Androgenetic Alopecia,Immunomodulators,Protein deficiency,2,27,False,False,True,True,True
+599,True,True,Ringworm,Steroids,Magnesium deficiency,1,32,True,True,True,False,True
+600,False,False,Thyroid Problems,Accutane,Protein deficiency,1,44,True,True,True,True,False
+601,True,True,Thyroid Problems,Blood Pressure Medication,Vitamin E deficiency,2,27,False,False,False,False,False
+602,False,True,Eczema,Steroids,Magnesium deficiency,0,38,False,False,False,False,False
+603,True,True,Thyroid Problems,Chemotherapy,Iron deficiency,2,45,False,True,False,True,True
+604,False,False,Scalp Infection,Antifungal Cream,Vitamin E deficiency,0,48,False,False,False,True,True
+605,True,True,Dermatitis,Steroids,Omega-3 fatty acids,1,24,True,False,True,False,False
+606,True,False,Dermatosis,Rogaine,Vitamin E deficiency,1,20,True,False,True,False,False
+607,False,True,Dermatitis,Immunomodulators,Biotin Deficiency ,0,43,False,True,True,False,True
+608,True,False,Seborrheic Dermatitis,Steroids,Vitamin D Deficiency,1,25,False,True,False,True,True
+609,False,True,Dermatosis,Rogaine,Iron deficiency,0,30,False,True,True,True,False
+610,False,False,Alopecia Areata ,Blood Pressure Medication,Omega-3 fatty acids,1,33,True,False,True,False,True
+611,False,False,Eczema,Blood Pressure Medication,Magnesium deficiency,1,37,False,True,True,False,False
+612,False,False,Psoriasis,Immunomodulators,Biotin Deficiency ,2,32,False,True,False,True,False
+613,True,False,Dermatosis,Steroids,Vitamin A Deficiency,0,36,True,False,True,True,True
+614,True,False,Scalp Infection,Accutane,Zinc Deficiency,2,39,True,False,False,False,True
+615,True,True,No Data,Chemotherapy,Selenium deficiency,2,19,False,True,True,True,True
+616,False,True,No Data,Heart Medication ,Magnesium deficiency,2,18,False,False,False,True,True
+617,False,False,Ringworm,Chemotherapy,Selenium deficiency,2,28,False,False,True,True,True
+618,True,True,Seborrheic Dermatitis,Rogaine,Selenium deficiency,1,35,False,True,False,False,True
+619,False,True,Dermatitis,Antifungal Cream,Zinc Deficiency,1,35,True,True,False,False,True
+620,False,False,Eczema,Rogaine,Selenium deficiency,1,41,True,False,True,True,False
+621,True,True,No Data,Heart Medication ,Omega-3 fatty acids,2,18,False,False,True,True,True
+622,False,True,Ringworm,Steroids,Omega-3 fatty acids,2,43,False,False,True,False,False
+623,True,False,Ringworm,Accutane,Zinc Deficiency,1,20,False,True,True,False,False
+624,False,False,Seborrheic Dermatitis,Immunomodulators,Vitamin A Deficiency,1,25,True,True,True,True,False
+625,True,True,No Data,Antifungal Cream,Protein deficiency,2,50,True,True,False,False,False
+626,False,False,Dermatitis,Heart Medication ,Biotin Deficiency ,0,33,True,False,True,True,True
+627,False,True,Dermatosis,Antifungal Cream,Vitamin D Deficiency,0,19,False,False,True,False,True
+628,True,False,Androgenetic Alopecia,Blood Pressure Medication,Magnesium deficiency,1,25,True,True,False,True,True
+629,True,False,Eczema,Rogaine,Vitamin E deficiency,1,27,True,False,True,True,False
+630,False,False,Seborrheic Dermatitis,Rogaine,No Data,1,22,True,True,True,True,True
+631,True,True,Alopecia Areata ,Antidepressants ,Magnesium deficiency,1,28,True,False,False,False,True
+632,False,True,Eczema,Antifungal Cream,Zinc Deficiency,1,28,False,True,True,False,True
+633,False,False,Alopecia Areata ,Antifungal Cream,Zinc Deficiency,1,43,False,False,True,True,True
+634,True,True,Androgenetic Alopecia,Chemotherapy,No Data,2,22,True,False,True,True,True
+635,False,True,Scalp Infection,Antifungal Cream,No Data,1,23,True,True,False,True,True
+636,False,False,Alopecia Areata ,Antifungal Cream,Biotin Deficiency ,1,42,True,True,True,False,False
+637,True,False,Psoriasis,Steroids,Vitamin A Deficiency,0,31,False,False,True,True,True
+638,True,True,Dermatosis,Antidepressants ,Magnesium deficiency,1,43,False,False,False,True,True
+639,True,True,Scalp Infection,Heart Medication ,Selenium deficiency,1,40,False,False,True,True,False
+640,True,False,Dermatosis,Blood Pressure Medication,No Data,1,22,False,False,False,False,True
+641,False,False,Alopecia Areata ,Antidepressants ,Vitamin D Deficiency,0,36,True,True,False,False,True
+642,True,True,Eczema,Chemotherapy,No Data,0,22,False,True,False,False,False
+643,False,False,Dermatosis,Heart Medication ,Protein deficiency,1,31,True,True,True,False,False
+644,False,False,Psoriasis,Immunomodulators,Vitamin E deficiency,2,26,False,True,True,False,False
+645,False,True,Psoriasis,Blood Pressure Medication,Vitamin A Deficiency,1,44,False,True,True,False,False
+646,False,True,Seborrheic Dermatitis,Steroids,Iron deficiency,2,35,True,True,False,False,True
+647,False,False,Ringworm,Blood Pressure Medication,Omega-3 fatty acids,2,24,False,True,False,True,True
+648,True,False,Psoriasis,Antibiotics,Protein deficiency,1,49,False,False,True,False,True
+649,True,True,Dermatitis,Accutane,Vitamin E deficiency,0,34,False,True,True,True,False
+650,False,False,Ringworm,Antibiotics,No Data,1,22,True,False,True,True,True
+651,False,False,Eczema,Immunomodulators,Zinc Deficiency,1,33,True,True,False,False,True
+652,True,True,Thyroid Problems,Immunomodulators,Vitamin D Deficiency,2,34,False,False,True,False,False
+653,True,False,Seborrheic Dermatitis,Accutane,No Data,2,22,False,True,True,False,False
+654,True,True,Dermatitis,Antibiotics,Protein deficiency,2,44,True,False,False,True,True
+655,True,True,Seborrheic Dermatitis,Antibiotics,Vitamin E deficiency,2,25,False,False,True,False,False
+656,True,True,Psoriasis,Immunomodulators,Zinc Deficiency,2,42,True,True,True,False,True
+657,True,True,Alopecia Areata ,Antidepressants ,Selenium deficiency,2,39,False,True,False,False,False
+658,True,False,Seborrheic Dermatitis,Heart Medication ,No Data,1,22,False,False,True,False,False
+659,True,True,Psoriasis,Accutane,Magnesium deficiency,0,46,True,False,False,False,False
+660,False,True,No Data,Immunomodulators,Selenium deficiency,2,19,False,True,False,True,False
+661,False,True,Eczema,Steroids,No Data,0,21,False,False,False,False,True
+662,False,False,Thyroid Problems,Antibiotics,No Data,2,21,True,True,True,False,False
+663,True,True,Alopecia Areata ,Rogaine,Selenium deficiency,1,46,True,True,True,True,True
+664,False,True,Alopecia Areata ,Antidepressants ,Selenium deficiency,0,30,False,False,True,False,False
+665,False,True,Dermatitis,Antidepressants ,Vitamin D Deficiency,2,24,True,False,False,False,False
+666,False,True,No Data,Steroids,Protein deficiency,0,47,False,True,True,False,True
+667,False,False,Androgenetic Alopecia,Steroids,Vitamin D Deficiency,1,39,True,True,False,True,False
+668,False,True,Androgenetic Alopecia,Chemotherapy,Magnesium deficiency,0,24,True,True,False,True,False
+669,False,False,Seborrheic Dermatitis,Blood Pressure Medication,Vitamin E deficiency,1,41,False,False,False,False,True
+670,True,True,Dermatitis,Antibiotics,Zinc Deficiency,0,31,False,True,True,False,True
+671,True,True,Psoriasis,Antibiotics,Zinc Deficiency,0,37,True,True,False,False,True
+672,False,True,No Data,Accutane,Omega-3 fatty acids,0,40,False,False,True,True,False
+673,True,False,Androgenetic Alopecia,Antibiotics,Magnesium deficiency,1,42,True,True,True,True,True
+674,False,False,Scalp Infection,Antidepressants ,Omega-3 fatty acids,1,35,True,False,False,True,True
+675,True,True,Dermatosis,Antibiotics,Vitamin E deficiency,1,39,False,True,False,True,True
+676,False,False,Seborrheic Dermatitis,Immunomodulators,Vitamin D Deficiency,2,36,True,False,False,False,False
+677,True,False,Thyroid Problems,Accutane,Magnesium deficiency,2,42,False,False,True,False,True
+678,True,False,Seborrheic Dermatitis,Rogaine,Omega-3 fatty acids,0,36,False,True,False,False,True
+679,True,True,Alopecia Areata ,Chemotherapy,No Data,2,23,True,True,False,True,False
+680,True,False,Ringworm,Antifungal Cream,Protein deficiency,1,48,False,True,True,False,False
+681,True,True,Scalp Infection,Antibiotics,Vitamin A Deficiency,0,19,False,False,False,False,False
+682,True,False,Scalp Infection,Steroids,Vitamin D Deficiency,2,32,False,False,False,False,True
+683,False,False,No Data,Accutane,Selenium deficiency,0,47,False,False,False,True,False
+684,True,True,Thyroid Problems,Heart Medication ,No Data,1,21,True,False,True,False,False
+685,True,False,Scalp Infection,Steroids,Biotin Deficiency ,1,35,False,False,True,True,True
+686,True,False,Dermatitis,Rogaine,Biotin Deficiency ,2,39,True,True,False,False,True
+687,True,False,Psoriasis,Blood Pressure Medication,Omega-3 fatty acids,1,49,True,True,True,True,True
+688,True,False,Psoriasis,Antibiotics,Vitamin A Deficiency,1,45,True,True,True,True,True
+689,False,True,Seborrheic Dermatitis,Antidepressants ,Vitamin A Deficiency,0,24,True,True,True,False,True
+690,True,False,Dermatosis,Antifungal Cream,Selenium deficiency,0,33,False,True,False,True,True
+691,False,False,Androgenetic Alopecia,Antifungal Cream,Vitamin D Deficiency,1,45,True,False,False,True,False
+692,False,False,No Data,Antibiotics,Selenium deficiency,0,49,False,True,True,False,True
+693,True,True,Seborrheic Dermatitis,Steroids,Vitamin E deficiency,1,49,False,False,False,False,True
+694,False,False,Eczema,Heart Medication ,Biotin Deficiency ,1,35,False,True,False,True,True
+695,False,False,Dermatitis,Heart Medication ,Selenium deficiency,1,48,True,False,False,True,False
+696,True,True,Psoriasis,Antidepressants ,Selenium deficiency,2,37,True,True,False,True,False
+697,True,False,Eczema,Antibiotics,Magnesium deficiency,0,26,False,True,False,False,True
+698,False,True,Alopecia Areata ,Chemotherapy,Protein deficiency,2,43,False,True,False,True,True
+699,True,False,Psoriasis,Rogaine,Vitamin A Deficiency,1,27,False,True,True,True,False
+700,False,False,Seborrheic Dermatitis,Antidepressants ,Magnesium deficiency,2,29,True,True,True,False,False
+701,True,False,Psoriasis,Blood Pressure Medication,Magnesium deficiency,1,49,True,True,True,True,False
+702,False,True,Psoriasis,Accutane,Iron deficiency,1,30,True,False,True,False,False
+703,True,False,Scalp Infection,Rogaine,Protein deficiency,1,41,False,False,True,True,False
+704,True,False,Alopecia Areata ,Immunomodulators,No Data,0,21,False,False,False,False,True
+705,False,True,Ringworm,Antibiotics,Biotin Deficiency ,0,43,True,False,False,False,False
+706,True,False,Ringworm,Antidepressants ,Vitamin D Deficiency,0,31,False,False,False,False,True
+707,False,False,Dermatosis,Rogaine,Omega-3 fatty acids,2,24,True,False,True,True,False
+708,False,True,Scalp Infection,Immunomodulators,Vitamin A Deficiency,0,32,True,False,False,False,False
+709,False,True,Psoriasis,Rogaine,Protein deficiency,0,33,False,False,False,True,True
+710,False,True,Ringworm,Antifungal Cream,Selenium deficiency,1,33,True,False,False,False,False
+711,True,True,Dermatosis,Antibiotics,Omega-3 fatty acids,0,32,True,False,False,True,True
+712,False,True,Thyroid Problems,Heart Medication ,Omega-3 fatty acids,1,33,True,False,True,False,False
+713,False,False,No Data,Antibiotics,Vitamin E deficiency,2,49,True,True,False,True,False
+714,False,False,Dermatitis,Steroids,Iron deficiency,1,47,False,False,True,False,False
+715,True,True,Ringworm,Immunomodulators,Zinc Deficiency,2,31,False,True,False,True,True
+716,False,True,Alopecia Areata ,Antidepressants ,Vitamin E deficiency,1,29,False,False,True,True,False
+717,False,False,Scalp Infection,Chemotherapy,Protein deficiency,1,43,True,True,True,False,True
+718,True,False,Eczema,Heart Medication ,Vitamin D Deficiency,0,38,False,True,True,True,True
+719,False,False,Androgenetic Alopecia,Antifungal Cream,Vitamin E deficiency,2,43,False,False,False,False,False
+720,True,False,Ringworm,Steroids,No Data,1,22,True,True,True,False,False
+721,False,False,Dermatosis,Rogaine,Selenium deficiency,1,45,True,False,True,False,False
+722,True,False,Ringworm,Blood Pressure Medication,No Data,2,23,True,True,False,False,True
+723,True,False,No Data,Rogaine,Zinc Deficiency,2,40,False,False,True,True,False
+724,False,True,No Data,Blood Pressure Medication,Biotin Deficiency ,0,49,True,False,False,False,False
+725,False,True,Alopecia Areata ,Antibiotics,Iron deficiency,0,20,True,True,True,True,False
+726,True,False,Scalp Infection,Blood Pressure Medication,Vitamin E deficiency,1,28,False,False,False,True,False
+727,True,True,Seborrheic Dermatitis,Antibiotics,Iron deficiency,1,45,False,True,False,False,True
+728,True,False,Dermatitis,Accutane,Zinc Deficiency,0,29,True,True,True,False,True
+729,False,True,Seborrheic Dermatitis,Antifungal Cream,Vitamin A Deficiency,1,44,False,False,False,True,True
+730,False,True,Alopecia Areata ,Immunomodulators,Iron deficiency,1,37,True,False,False,True,True
+731,True,False,Psoriasis,Steroids,Magnesium deficiency,0,29,False,True,True,True,True
+732,False,True,Seborrheic Dermatitis,Accutane,Omega-3 fatty acids,2,36,False,True,False,False,False
+733,False,True,Thyroid Problems,Steroids,Selenium deficiency,1,38,True,True,True,False,True
+734,True,False,Eczema,Antidepressants ,Vitamin D Deficiency,0,26,False,True,False,False,False
+735,False,True,Dermatitis,Antibiotics,Magnesium deficiency,1,28,True,True,False,True,True
+736,False,False,Thyroid Problems,Accutane,Protein deficiency,2,46,True,True,False,True,False
+737,False,False,Seborrheic Dermatitis,Immunomodulators,Biotin Deficiency ,0,35,False,True,False,False,False
+738,True,True,Ringworm,Antibiotics,Protein deficiency,1,29,True,True,True,True,True
+739,True,False,Scalp Infection,Chemotherapy,Vitamin E deficiency,2,34,True,False,True,True,True
+740,False,False,Alopecia Areata ,Blood Pressure Medication,Iron deficiency,0,30,True,True,False,True,True
+741,True,False,Psoriasis,Antibiotics,Vitamin E deficiency,2,37,False,True,True,False,True
+742,False,True,Thyroid Problems,Chemotherapy,Magnesium deficiency,1,31,False,False,False,True,False
+743,False,False,Alopecia Areata ,Rogaine,Protein deficiency,0,24,False,False,False,False,True
+744,True,False,Alopecia Areata ,Antidepressants ,Vitamin D Deficiency,2,30,False,False,True,False,True
+745,True,False,Dermatitis,Antifungal Cream,No Data,1,22,False,False,False,False,True
+746,False,True,Dermatosis,Rogaine,Vitamin E deficiency,0,33,False,True,True,True,False
+747,True,True,Dermatitis,Heart Medication ,Vitamin D Deficiency,1,27,True,False,False,False,False
+748,True,False,Eczema,Steroids,Omega-3 fatty acids,1,29,True,False,True,True,True
+749,False,True,Dermatitis,Rogaine,Zinc Deficiency,1,50,False,False,False,False,False
+750,False,False,Psoriasis,Immunomodulators,Omega-3 fatty acids,2,31,True,True,True,True,False
+751,False,True,Psoriasis,Antifungal Cream,Selenium deficiency,1,32,False,False,True,False,False
+752,False,False,Scalp Infection,Steroids,Iron deficiency,0,26,False,False,True,False,True
+753,True,True,Psoriasis,Chemotherapy,Vitamin E deficiency,1,25,False,True,False,True,True
+754,True,True,Scalp Infection,Chemotherapy,Vitamin D Deficiency,1,47,False,True,False,False,False
+755,True,True,No Data,Chemotherapy,Vitamin A Deficiency,2,18,False,False,True,True,False
+756,True,True,Scalp Infection,Rogaine,Zinc Deficiency,1,18,True,False,True,False,False
+757,True,True,Psoriasis,Chemotherapy,Magnesium deficiency,1,50,False,False,False,False,False
+758,False,False,Eczema,Heart Medication ,Vitamin E deficiency,2,31,True,False,False,True,True
+759,False,False,Dermatitis,Antifungal Cream,Omega-3 fatty acids,0,43,False,False,True,True,True
+760,False,False,Ringworm,Immunomodulators,Magnesium deficiency,0,25,False,True,False,True,False
+761,False,True,Psoriasis,Accutane,Vitamin E deficiency,1,34,True,False,True,True,True
+762,False,False,Seborrheic Dermatitis,Blood Pressure Medication,Vitamin E deficiency,0,19,False,False,True,True,False
+763,False,False,Dermatitis,Antidepressants ,Magnesium deficiency,1,18,True,True,False,True,False
+764,True,True,Psoriasis,Steroids,Protein deficiency,1,38,False,False,True,True,True
+765,False,True,Dermatosis,Chemotherapy,Vitamin D Deficiency,2,28,True,False,True,True,True
+766,False,False,Scalp Infection,Antidepressants ,Iron deficiency,2,45,True,False,True,False,False
+767,True,False,Scalp Infection,Accutane,Vitamin A Deficiency,2,37,False,True,True,False,True
+768,True,True,Alopecia Areata ,Accutane,Vitamin E deficiency,1,32,True,True,True,False,True
+769,True,False,Androgenetic Alopecia,Heart Medication ,Vitamin A Deficiency,2,35,False,False,True,False,True
+770,True,True,No Data,Antidepressants ,Biotin Deficiency ,0,40,False,True,True,True,True
+771,True,True,Alopecia Areata ,Accutane,Selenium deficiency,0,48,True,True,False,True,True
+772,True,True,Androgenetic Alopecia,Rogaine,Protein deficiency,0,38,False,False,True,False,True
+773,True,True,No Data,Accutane,Magnesium deficiency,0,40,False,True,True,True,False
+774,True,False,Thyroid Problems,Steroids,Omega-3 fatty acids,0,19,False,False,False,True,False
+775,True,True,Scalp Infection,Antifungal Cream,Selenium deficiency,0,34,True,False,False,False,False
+776,True,False,Scalp Infection,Blood Pressure Medication,Biotin Deficiency ,1,30,False,False,True,False,False
+777,True,False,Dermatitis,Accutane,Vitamin E deficiency,0,26,True,True,True,True,False
+778,True,False,Ringworm,Steroids,Biotin Deficiency ,1,29,True,True,False,False,True
+779,True,True,Ringworm,Heart Medication ,Vitamin E deficiency,0,41,True,True,False,False,True
+780,False,True,Dermatosis,Antifungal Cream,No Data,1,21,False,False,False,False,False
+781,False,True,Dermatosis,Heart Medication ,Vitamin A Deficiency,1,38,False,False,True,False,False
+782,True,True,Seborrheic Dermatitis,Accutane,Zinc Deficiency,0,19,False,False,True,True,False
+783,True,False,Thyroid Problems,Antibiotics,Vitamin A Deficiency,2,31,True,False,False,True,False
+784,True,False,Dermatitis,Blood Pressure Medication,Omega-3 fatty acids,0,45,True,True,False,False,True
+785,False,True,Eczema,Immunomodulators,Iron deficiency,0,38,True,True,False,False,False
+786,True,False,No Data,Heart Medication ,Omega-3 fatty acids,2,50,True,True,True,False,False
+787,True,True,Seborrheic Dermatitis,Blood Pressure Medication,Omega-3 fatty acids,1,37,True,False,True,False,True
+788,True,False,Dermatosis,Antidepressants ,Vitamin A Deficiency,1,35,True,True,False,False,True
+789,True,False,Thyroid Problems,Steroids,Vitamin D Deficiency,1,32,True,False,False,True,True
+790,False,True,Seborrheic Dermatitis,Immunomodulators,Iron deficiency,0,26,False,False,True,False,False
+791,False,False,Dermatosis,Rogaine,Iron deficiency,2,31,False,True,True,True,False
+792,True,False,Dermatitis,Steroids,Omega-3 fatty acids,0,19,False,True,False,False,False
+793,False,True,Psoriasis,Steroids,Zinc Deficiency,1,50,False,False,True,True,True
+794,True,True,Eczema,Immunomodulators,Vitamin A Deficiency,1,45,False,True,True,False,True
+795,False,True,Eczema,Blood Pressure Medication,Magnesium deficiency,1,24,False,False,False,False,False
+796,False,False,Androgenetic Alopecia,Immunomodulators,Magnesium deficiency,1,50,True,False,True,False,True
+797,False,False,Dermatitis,Steroids,Vitamin A Deficiency,1,39,False,False,False,True,True
+798,True,False,Dermatosis,Accutane,Vitamin A Deficiency,0,19,True,True,True,True,True
+799,False,True,No Data,Steroids,Vitamin D Deficiency,0,40,True,True,True,True,False
+800,False,True,No Data,Blood Pressure Medication,Zinc Deficiency,0,40,False,True,False,True,True
+801,True,False,Alopecia Areata ,Heart Medication ,Vitamin A Deficiency,2,37,True,False,False,True,True
+802,True,True,No Data,Accutane,Vitamin A Deficiency,0,47,True,True,True,False,False
+803,False,False,Alopecia Areata ,Accutane,No Data,2,22,True,False,False,True,True
+804,True,False,Androgenetic Alopecia,Accutane,No Data,0,21,True,True,False,True,True
+805,False,False,Alopecia Areata ,Blood Pressure Medication,Vitamin A Deficiency,0,34,True,True,False,False,True
+806,True,False,Ringworm,Chemotherapy,Vitamin D Deficiency,2,48,False,True,False,False,True
+807,True,True,Androgenetic Alopecia,Immunomodulators,Vitamin A Deficiency,2,37,False,True,True,False,True
+808,False,False,Dermatosis,Heart Medication ,Omega-3 fatty acids,1,26,True,True,True,True,False
+809,False,False,Androgenetic Alopecia,Immunomodulators,No Data,1,23,False,False,True,False,True
+810,False,True,Alopecia Areata ,Antidepressants ,Omega-3 fatty acids,0,30,False,False,True,True,False
+811,False,True,Alopecia Areata ,Antifungal Cream,Iron deficiency,0,32,False,False,True,True,False
+812,True,True,No Data,Rogaine,Protein deficiency,2,40,True,True,True,False,True
+813,True,True,Alopecia Areata ,Steroids,No Data,2,23,True,False,False,True,False
+814,True,True,Dermatitis,Heart Medication ,Selenium deficiency,1,40,True,True,True,False,True
+815,True,False,No Data,Steroids,Protein deficiency,2,47,False,True,True,True,True
+816,True,True,Dermatitis,Accutane,No Data,1,23,True,True,True,True,False
+817,False,False,Seborrheic Dermatitis,Heart Medication ,Omega-3 fatty acids,1,48,True,False,True,True,True
+818,False,True,Dermatosis,Antibiotics,Omega-3 fatty acids,2,41,False,False,True,True,False
+819,True,True,Seborrheic Dermatitis,Rogaine,No Data,0,21,True,True,True,False,True
+820,True,True,No Data,Rogaine,Magnesium deficiency,2,50,True,True,True,True,False
+821,False,True,Scalp Infection,Rogaine,Protein deficiency,1,38,False,True,False,False,True
+822,False,True,Alopecia Areata ,Antibiotics,Protein deficiency,2,30,False,False,False,False,True
+823,False,True,Scalp Infection,Blood Pressure Medication,Protein deficiency,2,41,False,True,False,False,False
+824,True,True,No Data,Antibiotics,Vitamin D Deficiency,0,49,True,False,True,False,True
+825,False,True,Psoriasis,Chemotherapy,Protein deficiency,2,27,False,False,False,True,True
+826,True,True,Psoriasis,Steroids,No Data,1,22,False,False,False,True,True
+827,False,True,Scalp Infection,Immunomodulators,Selenium deficiency,0,44,True,False,True,False,False
+828,True,True,No Data,Chemotherapy,Protein deficiency,2,19,False,True,True,False,False
+829,False,True,Dermatitis,Antifungal Cream,Zinc Deficiency,1,27,False,False,True,True,False
+830,True,True,Eczema,Blood Pressure Medication,Zinc Deficiency,2,34,True,True,False,True,False
+831,False,False,Dermatitis,Blood Pressure Medication,Omega-3 fatty acids,0,39,False,False,True,True,True
+832,False,False,Dermatosis,Antifungal Cream,Iron deficiency,2,36,False,True,False,False,False
+833,True,True,Dermatosis,Accutane,Vitamin D Deficiency,1,35,True,False,False,False,False
+834,True,False,Seborrheic Dermatitis,Chemotherapy,Iron deficiency,0,37,True,True,False,True,True
+835,True,True,Thyroid Problems,Steroids,Omega-3 fatty acids,2,30,False,True,True,False,False
+836,False,True,No Data,Antidepressants ,Vitamin A Deficiency,2,50,False,False,False,False,False
+837,True,False,Seborrheic Dermatitis,Accutane,Biotin Deficiency ,2,34,True,False,False,False,True
+838,True,False,Alopecia Areata ,Antidepressants ,Omega-3 fatty acids,1,20,True,False,True,True,False
+839,False,False,Psoriasis,Antifungal Cream,Selenium deficiency,0,20,True,True,True,False,False
+840,False,True,Eczema,Chemotherapy,Magnesium deficiency,1,31,False,False,True,False,True
+841,True,True,No Data,Heart Medication ,Vitamin D Deficiency,0,47,True,True,True,False,False
+842,False,True,Dermatitis,Antifungal Cream,Zinc Deficiency,2,28,False,False,False,True,True
+843,True,True,Dermatitis,Steroids,Omega-3 fatty acids,1,35,True,False,False,True,True
+844,True,True,Dermatitis,Steroids,Vitamin D Deficiency,0,30,False,True,False,True,True
+845,False,True,Ringworm,Antibiotics,Vitamin A Deficiency,1,19,True,True,False,True,True
+846,True,True,Alopecia Areata ,Steroids,Vitamin D Deficiency,1,20,True,True,False,False,True
+847,False,True,Ringworm,Antifungal Cream,Iron deficiency,0,25,False,False,False,True,False
+848,False,False,Dermatitis,Antibiotics,Biotin Deficiency ,0,39,False,True,False,True,False
+849,True,True,Dermatitis,Antifungal Cream,Selenium deficiency,2,36,False,False,False,True,False
+850,False,True,Dermatosis,Blood Pressure Medication,Vitamin D Deficiency,1,20,True,False,False,True,False
+851,True,False,Thyroid Problems,Steroids,Vitamin A Deficiency,1,44,True,True,False,False,False
+852,True,False,No Data,Antidepressants ,Protein deficiency,0,49,False,True,False,True,False
+853,True,False,Alopecia Areata ,Accutane,Biotin Deficiency ,1,31,True,True,False,False,True
+854,False,False,Seborrheic Dermatitis,Antidepressants ,No Data,2,22,True,False,False,True,True
+855,False,True,Thyroid Problems,Heart Medication ,Vitamin E deficiency,1,18,True,False,True,False,False
+856,False,True,Thyroid Problems,Antifungal Cream,Biotin Deficiency ,2,26,False,True,False,True,True
+857,True,True,Thyroid Problems,Antidepressants ,Iron deficiency,1,27,True,True,True,True,False
+858,True,True,Eczema,Rogaine,Selenium deficiency,1,36,False,True,True,True,True
+859,True,False,Seborrheic Dermatitis,Immunomodulators,Vitamin D Deficiency,1,39,False,False,True,True,False
+860,True,False,Seborrheic Dermatitis,Immunomodulators,Zinc Deficiency,0,34,False,False,False,False,False
+861,True,False,Dermatitis,Blood Pressure Medication,Vitamin D Deficiency,2,43,False,False,False,False,False
+862,False,True,Androgenetic Alopecia,Rogaine,Omega-3 fatty acids,0,42,False,True,True,False,True
+863,False,False,Dermatosis,Rogaine,Vitamin D Deficiency,1,48,True,True,True,False,False
+864,False,False,Dermatitis,Chemotherapy,Vitamin A Deficiency,2,31,True,True,True,False,True
+865,False,False,Dermatosis,Immunomodulators,Zinc Deficiency,0,45,False,False,True,False,True
+866,True,True,No Data,Accutane,Vitamin A Deficiency,0,47,True,False,False,True,False
+867,True,False,Thyroid Problems,Chemotherapy,Vitamin D Deficiency,2,33,False,True,False,True,True
+868,False,True,Dermatitis,Rogaine,Magnesium deficiency,2,37,True,False,True,True,False
+869,True,False,Dermatosis,Rogaine,Iron deficiency,2,42,True,False,False,False,False
+870,False,True,Androgenetic Alopecia,Steroids,Vitamin E deficiency,2,45,True,False,False,False,True
+871,False,False,Dermatitis,Rogaine,Vitamin D Deficiency,1,31,True,True,True,False,False
+872,True,True,Thyroid Problems,Heart Medication ,Omega-3 fatty acids,0,35,True,True,False,True,True
+873,False,False,Androgenetic Alopecia,Chemotherapy,Biotin Deficiency ,1,20,True,False,True,False,False
+874,False,True,Seborrheic Dermatitis,Immunomodulators,Vitamin E deficiency,0,42,False,True,True,False,True
+875,False,False,Eczema,Antidepressants ,Protein deficiency,2,33,True,False,True,False,True
+876,False,False,Alopecia Areata ,Antidepressants ,Zinc Deficiency,2,24,False,True,False,False,True
+877,False,True,Alopecia Areata ,Blood Pressure Medication,Biotin Deficiency ,1,45,False,False,False,False,False
+878,False,True,Eczema,Antibiotics,Vitamin D Deficiency,0,28,False,False,True,True,False
+879,True,True,Dermatitis,Heart Medication ,Biotin Deficiency ,1,19,False,False,False,True,False
+880,True,True,Scalp Infection,Antidepressants ,Selenium deficiency,0,24,False,False,True,True,True
+881,True,True,Alopecia Areata ,Steroids,No Data,2,23,False,True,False,False,False
+882,False,False,Thyroid Problems,Antibiotics,Omega-3 fatty acids,0,31,True,True,True,True,True
+883,True,True,No Data,Immunomodulators,Selenium deficiency,2,50,True,False,False,False,False
+884,True,True,Ringworm,Rogaine,No Data,0,23,True,False,True,True,True
+885,True,True,Psoriasis,Steroids,Iron deficiency,1,29,True,True,True,True,True
+886,True,False,Alopecia Areata ,Antifungal Cream,Protein deficiency,1,46,True,False,False,False,False
+887,True,True,Androgenetic Alopecia,Immunomodulators,Zinc Deficiency,2,39,False,False,True,False,False
+888,False,False,Seborrheic Dermatitis,Immunomodulators,Protein deficiency,0,27,True,True,False,False,False
+889,True,False,Alopecia Areata ,Rogaine,Vitamin E deficiency,0,38,False,False,False,True,True
+890,True,False,Dermatosis,Heart Medication ,Omega-3 fatty acids,0,35,False,True,False,False,False
+891,False,False,Scalp Infection,Antidepressants ,No Data,0,21,False,True,True,True,True
+892,True,True,Ringworm,Blood Pressure Medication,Vitamin A Deficiency,1,40,True,False,True,False,False
+893,True,True,Dermatosis,Antibiotics,Vitamin D Deficiency,1,19,False,True,True,False,True
+894,False,True,Androgenetic Alopecia,Rogaine,Protein deficiency,0,43,True,True,False,False,True
+895,False,False,Dermatitis,Immunomodulators,Omega-3 fatty acids,2,44,True,True,True,True,False
+896,True,True,Eczema,Antidepressants ,Protein deficiency,2,43,True,False,True,False,True
+897,False,False,Psoriasis,Antidepressants ,No Data,1,21,True,True,True,False,True
+898,False,True,No Data,Antifungal Cream,Vitamin D Deficiency,2,40,False,True,False,False,True
+899,False,True,Androgenetic Alopecia,Immunomodulators,Vitamin A Deficiency,1,29,True,False,True,True,True
+900,False,True,Psoriasis,Antifungal Cream,Iron deficiency,1,35,False,True,False,True,True
+901,False,False,Ringworm,Antidepressants ,No Data,0,23,False,True,False,True,False
+902,False,True,Thyroid Problems,Blood Pressure Medication,Selenium deficiency,0,33,False,False,True,False,False
+903,False,False,Androgenetic Alopecia,Rogaine,Omega-3 fatty acids,0,26,False,False,True,False,False
+904,False,False,Alopecia Areata ,Immunomodulators,Vitamin D Deficiency,1,48,True,False,True,False,True
+905,False,True,Thyroid Problems,Rogaine,Vitamin A Deficiency,1,39,True,False,False,True,True
+906,False,True,Alopecia Areata ,Heart Medication ,Biotin Deficiency ,2,29,False,True,True,True,False
+907,True,True,Eczema,Accutane,Protein deficiency,2,45,True,False,False,False,False
+908,True,True,Androgenetic Alopecia,Antifungal Cream,Vitamin E deficiency,1,32,False,True,True,True,True
+909,True,False,Scalp Infection,Antidepressants ,Biotin Deficiency ,2,28,False,True,False,False,True
+910,False,True,Alopecia Areata ,Heart Medication ,Selenium deficiency,1,20,False,True,False,True,True
+911,False,True,Alopecia Areata ,Accutane,Vitamin E deficiency,0,36,False,True,True,False,False
+912,True,True,Dermatitis,Immunomodulators,Omega-3 fatty acids,1,50,True,True,False,True,False
+913,True,False,Thyroid Problems,Blood Pressure Medication,Zinc Deficiency,2,45,True,True,True,True,True
+914,True,True,Dermatosis,Heart Medication ,Zinc Deficiency,1,49,True,True,False,True,True
+915,True,True,Dermatitis,Heart Medication ,Vitamin A Deficiency,2,26,False,True,True,False,True
+916,False,True,Dermatosis,Chemotherapy,Protein deficiency,1,38,True,False,True,True,False
+917,True,False,Alopecia Areata ,Antidepressants ,Protein deficiency,0,34,True,True,True,False,True
+918,True,True,Eczema,Accutane,Biotin Deficiency ,2,48,False,True,True,True,True
+919,False,True,Alopecia Areata ,Rogaine,Biotin Deficiency ,1,27,True,True,False,True,False
+920,True,False,Dermatosis,Antibiotics,Zinc Deficiency,2,41,True,False,True,True,True
+921,True,True,Alopecia Areata ,Rogaine,Vitamin A Deficiency,2,46,True,False,False,False,True
+922,True,False,Dermatitis,Antidepressants ,Iron deficiency,2,26,False,True,True,False,False
+923,False,False,Dermatosis,Heart Medication ,No Data,2,21,True,True,True,False,True
+924,False,True,Seborrheic Dermatitis,Accutane,Protein deficiency,2,29,True,True,True,True,True
+925,False,False,Alopecia Areata ,Immunomodulators,Magnesium deficiency,1,49,True,False,True,True,False
+926,False,True,Dermatosis,Rogaine,Protein deficiency,1,25,False,False,True,True,True
+927,False,True,Scalp Infection,Blood Pressure Medication,Biotin Deficiency ,0,42,True,True,False,False,True
+928,True,True,Psoriasis,Antibiotics,Protein deficiency,0,28,False,False,False,False,True
+929,False,False,Scalp Infection,Accutane,Zinc Deficiency,2,24,True,True,False,True,True
+930,False,False,Alopecia Areata ,Rogaine,Vitamin A Deficiency,2,48,True,True,False,True,True
+931,False,True,No Data,Blood Pressure Medication,Iron deficiency,2,40,False,True,True,True,False
+932,False,False,Eczema,Heart Medication ,Protein deficiency,2,31,True,False,False,True,True
+933,True,True,No Data,Antibiotics,Magnesium deficiency,2,49,False,True,False,True,True
+934,True,False,No Data,Heart Medication ,Iron deficiency,2,20,True,True,False,False,False
+935,False,False,Androgenetic Alopecia,Antifungal Cream,Vitamin A Deficiency,2,45,True,True,True,False,False
+936,False,False,Androgenetic Alopecia,Antidepressants ,Selenium deficiency,2,33,False,True,True,False,True
+937,False,True,Thyroid Problems,Antifungal Cream,Protein deficiency,2,38,True,False,True,True,True
+938,True,True,Seborrheic Dermatitis,Chemotherapy,Vitamin E deficiency,2,41,False,True,False,True,False
+939,False,False,Eczema,Chemotherapy,Magnesium deficiency,0,32,False,False,False,False,False
+940,False,False,Alopecia Areata ,Chemotherapy,Magnesium deficiency,0,48,False,True,True,False,False
+941,True,False,No Data,Antidepressants ,Vitamin E deficiency,2,18,False,False,False,True,False
+942,True,True,Eczema,Antibiotics,Vitamin A Deficiency,0,24,False,False,True,False,True
+943,False,False,Ringworm,Rogaine,Vitamin A Deficiency,1,37,False,True,False,True,False
+944,True,True,Dermatosis,Antifungal Cream,Vitamin D Deficiency,0,38,False,True,True,False,False
+945,False,False,Dermatitis,Antibiotics,No Data,0,21,False,False,False,True,True
+946,False,True,No Data,Antibiotics,Biotin Deficiency ,2,47,False,True,True,True,False
+947,False,True,Ringworm,Chemotherapy,No Data,2,22,True,False,True,False,False
+948,False,False,Alopecia Areata ,Steroids,Magnesium deficiency,1,46,False,False,True,True,True
+949,True,False,Eczema,Antifungal Cream,Vitamin E deficiency,0,26,False,True,False,True,True
+950,True,True,Psoriasis,Antifungal Cream,Vitamin D Deficiency,0,35,True,False,False,False,True
+951,True,True,Dermatosis,Accutane,Omega-3 fatty acids,0,45,False,False,True,True,True
+952,False,True,Scalp Infection,Heart Medication ,Vitamin E deficiency,2,41,True,True,False,True,False
+953,False,False,Alopecia Areata ,Chemotherapy,Omega-3 fatty acids,2,27,True,False,False,False,True
+954,False,False,Thyroid Problems,Accutane,Iron deficiency,2,44,False,False,True,False,False
+955,False,False,Androgenetic Alopecia,Rogaine,Zinc Deficiency,0,38,True,False,False,True,False
+956,True,True,Seborrheic Dermatitis,Chemotherapy,No Data,1,21,False,False,True,False,True
+957,False,False,Androgenetic Alopecia,Heart Medication ,Vitamin A Deficiency,2,28,False,True,True,False,False
+958,True,False,Eczema,Heart Medication ,Biotin Deficiency ,2,35,False,True,False,False,True
+959,True,False,Androgenetic Alopecia,Steroids,Iron deficiency,1,50,True,True,True,False,False
+960,True,False,Scalp Infection,Rogaine,Omega-3 fatty acids,1,38,False,True,True,True,False
+961,True,False,Thyroid Problems,Steroids,Magnesium deficiency,2,33,True,True,True,False,False
+962,False,False,Thyroid Problems,Immunomodulators,Magnesium deficiency,1,42,True,False,False,False,False
+963,True,False,Psoriasis,Heart Medication ,Magnesium deficiency,2,43,False,True,False,False,False
+964,False,False,No Data,Immunomodulators,Magnesium deficiency,2,49,False,False,True,False,False
+965,False,False,Psoriasis,Antidepressants ,No Data,0,22,False,False,False,True,False
+966,False,False,Alopecia Areata ,Antifungal Cream,No Data,2,23,False,True,True,True,False
+967,True,False,Androgenetic Alopecia,Chemotherapy,Iron deficiency,1,41,True,True,False,False,True
+968,False,True,Androgenetic Alopecia,Chemotherapy,Iron deficiency,2,41,True,False,True,False,False
+969,True,False,Thyroid Problems,Rogaine,Omega-3 fatty acids,2,35,True,True,False,True,False
+970,False,True,Alopecia Areata ,Antifungal Cream,Biotin Deficiency ,0,18,False,True,True,False,True
+971,False,False,Alopecia Areata ,Antibiotics,Magnesium deficiency,1,40,True,True,False,False,True
+972,True,True,Androgenetic Alopecia,Accutane,Vitamin E deficiency,0,46,True,True,True,True,False
+973,True,False,Psoriasis,Heart Medication ,Omega-3 fatty acids,2,38,True,True,True,False,False
+974,False,True,Scalp Infection,Immunomodulators,Omega-3 fatty acids,0,41,True,False,True,False,False
+975,True,True,Dermatitis,Heart Medication ,Vitamin D Deficiency,2,44,False,True,True,False,False
+976,True,True,Psoriasis,Blood Pressure Medication,No Data,0,21,True,True,True,False,False
+977,True,True,Alopecia Areata ,Accutane,Vitamin E deficiency,0,25,False,True,False,False,False
+978,True,False,Dermatosis,Antibiotics,Zinc Deficiency,0,46,False,False,False,True,False
+979,True,True,Psoriasis,Antifungal Cream,Omega-3 fatty acids,1,27,True,True,False,True,True
+980,True,True,Dermatosis,Antidepressants ,Selenium deficiency,1,26,False,False,False,False,False
+981,True,True,No Data,Antibiotics,Iron deficiency,2,40,True,True,True,True,False
+982,True,True,Psoriasis,Antifungal Cream,Zinc Deficiency,1,50,True,False,False,False,False
+983,False,True,Thyroid Problems,Steroids,Biotin Deficiency ,2,33,True,True,False,False,True
+984,False,False,Androgenetic Alopecia,Antibiotics,Protein deficiency,2,43,False,False,False,False,False
+985,True,False,Seborrheic Dermatitis,Blood Pressure Medication,Biotin Deficiency ,0,33,True,False,True,True,False
+986,False,True,Androgenetic Alopecia,Immunomodulators,Biotin Deficiency ,0,46,False,False,True,False,True
+987,True,True,Androgenetic Alopecia,Immunomodulators,Selenium deficiency,1,19,True,False,True,False,False
+988,False,False,Androgenetic Alopecia,Antibiotics,No Data,2,23,True,True,False,True,False
+989,False,False,Ringworm,Rogaine,Selenium deficiency,1,45,False,True,False,True,True
+990,True,False,Alopecia Areata ,Antidepressants ,Zinc Deficiency,0,42,False,True,True,False,False
+991,False,True,Thyroid Problems,Antidepressants ,Zinc Deficiency,2,33,True,True,False,False,False
+992,True,True,Dermatosis,Rogaine,Magnesium deficiency,0,30,False,False,False,False,True
+993,False,True,Scalp Infection,Immunomodulators,No Data,1,23,True,True,True,True,False
+994,True,False,Seborrheic Dermatitis,Rogaine,Vitamin A Deficiency,0,33,True,True,True,True,True
+995,True,True,No Data,Accutane,Protein deficiency,0,47,False,False,False,True,False
+996,False,True,Androgenetic Alopecia,Antidepressants ,Protein deficiency,1,20,True,False,True,True,True
+997,False,True,Dermatitis,Immunomodulators,Biotin Deficiency ,1,32,True,True,True,True,True
+998,True,True,Psoriasis,Blood Pressure Medication,Vitamin D Deficiency,0,34,False,True,False,False,True
