@@ -1,0 +1,75 @@
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 1, "at": 1743750379.9967144}
+{"obj": {"type": "AssignString", "path": ["monitoring", "0869a892", "hostname"], "value": "JYGaming"}, "version": 2, "at": 1743750379.9968662}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "JYGaming"}, "version": 3, "at": 1743750379.9969401}
+{"obj": {"type": "AssignString", "path": ["monitoring", "0869a892", "pid"], "value": "26796"}, "version": 4, "at": 1743750379.9970036}
+{"obj": {"type": "AssignString", "path": ["monitoring", "0869a892", "tid"], "value": "46932"}, "version": 5, "at": 1743750379.9970636}
+{"obj": {"type": "AddStrings", "path": ["sys", "tags"], "values": ["DTClassifier", "RFClassifier", "optimization", "optuna"]}, "version": 6, "at": 1743750379.9971268}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1743750379.9971807}
+{"obj": {"type": "AssignString", "path": ["source_code", "integrations", "neptune-optuna"], "value": "1.4.1"}, "version": 8, "at": 1743750380.0092945}
+{"obj": {"type": "AssignDatetime", "path": ["trials", "trials", "0", "datetime_start"], "value": 1743750393047}, "version": 9, "at": 1743750393.1503878}
+{"obj": {"type": "AssignDatetime", "path": ["trials", "trials", "0", "datetime_complete"], "value": 1743750393149}, "version": 10, "at": 1743750393.1504965}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "duration"], "value": "0:00:00.102070"}, "version": 11, "at": 1743750393.1507404}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "classifier"], "value": "CategoricalDistribution(choices=('DecisionTree', 'RandomForest'))"}, "version": 12, "at": 1743750393.1509998}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_n_estimators"], "value": "IntDistribution(high=500, log=False, low=50, step=1)"}, "version": 13, "at": 1743750393.151109}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_max_depth"], "value": "IntDistribution(high=32, log=False, low=2, step=1)"}, "version": 14, "at": 1743750393.1511908}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_min_samples_split"], "value": "FloatDistribution(high=1.0, log=False, low=0.01, step=None)"}, "version": 15, "at": 1743750393.1514587}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_min_samples_leaf"], "value": "FloatDistribution(high=0.5, log=False, low=0.01, step=None)"}, "version": 16, "at": 1743750393.1515472}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_max_features"], "value": "CategoricalDistribution(choices=('sqrt', 'log2'))"}, "version": 17, "at": 1743750393.1516278}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "distributions", "rf_bootstrap"], "value": "CategoricalDistribution(choices=(True, False))"}, "version": 18, "at": 1743750393.1517031}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "params", "classifier"], "value": "RandomForest"}, "version": 19, "at": 1743750393.15185}
+{"obj": {"type": "AssignInt", "path": ["trials", "trials", "0", "params", "rf_n_estimators"], "value": 77}, "version": 20, "at": 1743750393.1519248}
+{"obj": {"type": "AssignInt", "path": ["trials", "trials", "0", "params", "rf_max_depth"], "value": 15}, "version": 21, "at": 1743750393.1519916}
+{"obj": {"type": "AssignFloat", "path": ["trials", "trials", "0", "params", "rf_min_samples_split"], "value": 0.27044779630130417}, "version": 22, "at": 1743750393.152063}
+{"obj": {"type": "AssignFloat", "path": ["trials", "trials", "0", "params", "rf_min_samples_leaf"], "value": 0.07584421992366713}, "version": 23, "at": 1743750393.1521304}
+{"obj": {"type": "AssignString", "path": ["trials", "trials", "0", "params", "rf_max_features"], "value": "sqrt"}, "version": 24, "at": 1743750393.1521947}
+{"obj": {"type": "AssignBool", "path": ["trials", "trials", "0", "params", "rf_bootstrap"], "value": true}, "version": 25, "at": 1743750393.152261}
+{"obj": {"type": "AssignFloat", "path": ["trials", "trials", "0", "user_attrs", "accuracy"], "value": 0.5050770811921891}, "version": 26, "at": 1743750393.1523972}
+{"obj": {"type": "AssignFloat", "path": ["trials", "trials", "0", "value"], "value": 0.5043950660484647}, "version": 27, "at": 1743750393.1524677}
+{"obj": {"type": "LogFloats", "path": ["trials", "values"], "values": [{"value": 0.5043950660484647, "step": 0, "ts": 1743750393.1526284}]}, "version": 28, "at": 1743750393.1526515}
+{"obj": {"type": "LogStrings", "path": ["trials", "params", "classifier"], "values": [{"value": "RandomForest", "step": null, "ts": 1743750393.15282}]}, "version": 29, "at": 1743750393.1528363}
+{"obj": {"type": "LogFloats", "path": ["trials", "params", "rf_n_estimators"], "values": [{"value": 77.0, "step": null, "ts": 1743750393.1529148}]}, "version": 30, "at": 1743750393.1529276}
+{"obj": {"type": "LogFloats", "path": ["trials", "params", "rf_max_depth"], "values": [{"value": 15.0, "step": null, "ts": 1743750393.1530015}]}, "version": 31, "at": 1743750393.1530135}
+{"obj": {"type": "LogFloats", "path": ["trials", "params", "rf_min_samples_split"], "values": [{"value": 0.27044779630130417, "step": null, "ts": 1743750393.153085}]}, "version": 32, "at": 1743750393.1530964}
+{"obj": {"type": "LogFloats", "path": ["trials", "params", "rf_min_samples_leaf"], "values": [{"value": 0.07584421992366713, "step": null, "ts": 1743750393.1531658}]}, "version": 33, "at": 1743750393.1531773}
+{"obj": {"type": "LogStrings", "path": ["trials", "params", "rf_max_features"], "values": [{"value": "sqrt", "step": null, "ts": 1743750393.153249}]}, "version": 34, "at": 1743750393.1532598}
+{"obj": {"type": "LogFloats", "path": ["trials", "params", "rf_bootstrap"], "values": [{"value": 1.0, "step": null, "ts": 1743750393.1533353}]}, "version": 35, "at": 1743750393.1533465}
+{"obj": {"type": "LogStrings", "path": ["trials", "values|params"], "values": [{"value": "value: 0.5043950660484647| params: {'classifier': 'RandomForest', 'rf_n_estimators': 77, 'rf_max_depth': 15, 'rf_min_samples_split': 0.27044779630130417, 'rf_min_samples_leaf': 0.07584421992366713, 'rf_max_features': 'sqrt', 'rf_bootstrap': True}", "step": null, "ts": 1743750393.153431}]}, "version": 36, "at": 1743750393.1534405}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "classifier"], "value": "CategoricalDistribution(choices=('DecisionTree', 'RandomForest'))"}, "version": 37, "at": 1743750393.1535637}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_n_estimators"], "value": "IntDistribution(high=500, log=False, low=50, step=1)"}, "version": 38, "at": 1743750393.1536357}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_max_depth"], "value": "IntDistribution(high=32, log=False, low=2, step=1)"}, "version": 39, "at": 1743750393.1537042}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_min_samples_split"], "value": "FloatDistribution(high=1.0, log=False, low=0.01, step=None)"}, "version": 40, "at": 1743750393.1537724}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_min_samples_leaf"], "value": "FloatDistribution(high=0.5, log=False, low=0.01, step=None)"}, "version": 41, "at": 1743750393.153839}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_max_features"], "value": "CategoricalDistribution(choices=('sqrt', 'log2'))"}, "version": 42, "at": 1743750393.1539028}
+{"obj": {"type": "AssignString", "path": ["study", "distributions", "rf_bootstrap"], "value": "CategoricalDistribution(choices=(True, False))"}, "version": 43, "at": 1743750393.153965}
+{"obj": {"type": "AssignDatetime", "path": ["best", "trials", "0", "datetime_start"], "value": 1743750393047}, "version": 44, "at": 1743750393.1541443}
+{"obj": {"type": "AssignDatetime", "path": ["best", "trials", "0", "datetime_complete"], "value": 1743750393149}, "version": 45, "at": 1743750393.1542165}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "duration"], "value": "0:00:00.102070"}, "version": 46, "at": 1743750393.1542935}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "classifier"], "value": "CategoricalDistribution(choices=('DecisionTree', 'RandomForest'))"}, "version": 47, "at": 1743750393.1544018}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_n_estimators"], "value": "IntDistribution(high=500, log=False, low=50, step=1)"}, "version": 48, "at": 1743750393.1544719}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_max_depth"], "value": "IntDistribution(high=32, log=False, low=2, step=1)"}, "version": 49, "at": 1743750393.1545389}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_min_samples_split"], "value": "FloatDistribution(high=1.0, log=False, low=0.01, step=None)"}, "version": 50, "at": 1743750393.1546059}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_min_samples_leaf"], "value": "FloatDistribution(high=0.5, log=False, low=0.01, step=None)"}, "version": 51, "at": 1743750393.1546764}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_max_features"], "value": "CategoricalDistribution(choices=('sqrt', 'log2'))"}, "version": 52, "at": 1743750393.1548016}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "distributions", "rf_bootstrap"], "value": "CategoricalDistribution(choices=(True, False))"}, "version": 53, "at": 1743750393.1548674}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "params", "classifier"], "value": "RandomForest"}, "version": 54, "at": 1743750393.1549904}
+{"obj": {"type": "AssignInt", "path": ["best", "trials", "0", "params", "rf_n_estimators"], "value": 77}, "version": 55, "at": 1743750393.1550493}
+{"obj": {"type": "AssignInt", "path": ["best", "trials", "0", "params", "rf_max_depth"], "value": 15}, "version": 56, "at": 1743750393.1551044}
+{"obj": {"type": "AssignFloat", "path": ["best", "trials", "0", "params", "rf_min_samples_split"], "value": 0.27044779630130417}, "version": 57, "at": 1743750393.1551595}
+{"obj": {"type": "AssignFloat", "path": ["best", "trials", "0", "params", "rf_min_samples_leaf"], "value": 0.07584421992366713}, "version": 58, "at": 1743750393.1552138}
+{"obj": {"type": "AssignString", "path": ["best", "trials", "0", "params", "rf_max_features"], "value": "sqrt"}, "version": 59, "at": 1743750393.1552718}
+{"obj": {"type": "AssignBool", "path": ["best", "trials", "0", "params", "rf_bootstrap"], "value": true}, "version": 60, "at": 1743750393.155329}
+{"obj": {"type": "AssignFloat", "path": ["best", "trials", "0", "user_attrs", "accuracy"], "value": 0.5050770811921891}, "version": 61, "at": 1743750393.1554163}
+{"obj": {"type": "AssignFloat", "path": ["best", "trials", "0", "value"], "value": 0.5043950660484647}, "version": 62, "at": 1743750393.1554785}
+{"obj": {"type": "AssignFloat", "path": ["best", "value"], "value": 0.5043950660484647}, "version": 63, "at": 1743750393.1555352}
+{"obj": {"type": "AssignString", "path": ["best", "params", "classifier"], "value": "RandomForest"}, "version": 64, "at": 1743750393.1556268}
+{"obj": {"type": "AssignInt", "path": ["best", "params", "rf_n_estimators"], "value": 77}, "version": 65, "at": 1743750393.1556818}
+{"obj": {"type": "AssignInt", "path": ["best", "params", "rf_max_depth"], "value": 15}, "version": 66, "at": 1743750393.1557336}
+{"obj": {"type": "AssignFloat", "path": ["best", "params", "rf_min_samples_split"], "value": 0.27044779630130417}, "version": 67, "at": 1743750393.1557846}
+{"obj": {"type": "AssignFloat", "path": ["best", "params", "rf_min_samples_leaf"], "value": 0.07584421992366713}, "version": 68, "at": 1743750393.1558359}
+{"obj": {"type": "AssignString", "path": ["best", "params", "rf_max_features"], "value": "sqrt"}, "version": 69, "at": 1743750393.1558905}
+{"obj": {"type": "AssignBool", "path": ["best", "params", "rf_bootstrap"], "value": true}, "version": 70, "at": 1743750393.1559405}
+{"obj": {"type": "AssignString", "path": ["best", "value|params"], "value": "value: 0.5043950660484647| params: {'classifier': 'RandomForest', 'rf_n_estimators': 77, 'rf_max_depth': 15, 'rf_min_samples_split': 0.27044779630130417, 'rf_min_samples_leaf': 0.07584421992366713, 'rf_max_features': 'sqrt', 'rf_bootstrap': True}"}, "version": 71, "at": 1743750393.1560013}
+{"obj": {"type": "AssignString", "path": ["study", "study_name"], "value": "no-name-c15d0d47-867f-4cc4-a327-416a81926e9b"}, "version": 72, "at": 1743750393.1560671}
+{"obj": {"type": "AssignInt", "path": ["study", "direction"], "value": 2}, "version": 73, "at": 1743750393.1561673}
+{"obj": {"type": "AssignInt", "path": ["study", "_study_id"], "value": 0}, "version": 74, "at": 1743750393.1562548}
+{"obj": {"type": "AssignString", "path": ["study", "_storage"], "value": "<optuna.storages._in_memory.InMemoryStorage object at 0x00000174E3394B90>"}, "version": 75, "at": 1743750393.1563745}
